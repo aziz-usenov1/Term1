@@ -1,26 +1,26 @@
 # Loan Data Analysis with SQL
 
 ## About the Project
-The goal of this project is analyze loan payment abilities of customers of Czech Republic Bank. All analysis are done to answer the following analytical question:  
+The objective of this project is to analyze loan repayment capacities among customers of Czech Republic Bank, focusing on the following key question:
 - **How do client demographics and account behaviors influence loan repayment statuses in terms of both frequency and amount of late or missed payments?**
 
-The project incorporates the following procedures:
-- Use of Python to process datasets for SQL analysis
-- Operational Layer with all necessary tables
-- Analytical Layer created with the help of ETL executed on Operational Layer
-- Stored Procedures and Triggers
-- Data Marts and Materialized View for analysis purposes
+This project involves a multi-layered analytical approach, incorporating:
+1. **Python-Driven Data Processing:** Preprocessing of datasets to ensure compatibility with SQL analyses.
+2. **Operational Layer:** A foundational database layer with essential tables.
+3. **Analytical Layer:** Developed using ETL processes on the Operational Layer.
+4. **Stored Procedures and Triggers:** Enhancements to streamline database operations.
+5. **Data Marts and Materialized Views:** To facilitate in-depth analysis.
 
 ## Dataset
-Dataset was downloaeded from https://github.com/prasantaman/Credit-Card-Data-Analysis-Using-SQL/tree/main. It has 8 tables with relevant columns. Python was used to process `LOAN`, `CREDIT_CARD`, `CLIENT`, `DEMOGRAPHIC`, `TRANSACTION` tables.
-- `LOAN`, `TRANSACTION`, `CREDIT_CARD` have date type of YYMMDD, which were converted to standard date type of YYYY-MM-DD
-- `CLIENT` has date of birth encrypted by adding 50 to month. If month > 12 then it is 'Female' and 'Male' otherwise. It was also converted to standard date type of YYYY-MM-DD
-- `DEMOGRAPHIC` table has `?` for one observation which was replaced by NULL
+The dataset, sourced from [GitHub](https://github.com/prasantaman/Credit-Card-Data-Analysis-Using-SQL/tree/main), comprises eight tables with pertinent columns. Initial processing of the LOAN, CREDIT_CARD, CLIENT, DEMOGRAPHIC, and TRANSACTION tables was done using Python. Key transformations included:
 
-NOTE: `ACCOUNT` table has date for account creation which is intentionally encrypted with random dates   
+- **Date Formatting:** The `LOAN`, `TRANSACTION`, and `CREDIT_CARD` tables contained dates in YYMMDD format, which were standardized to YYYY-MM-DD.
+- **Client Birth Date and Gender Encoding:** `CLIENT` data contained dates of birth encrypted by adding 50 to the month (months over 12 signify females, otherwise males). Dates were converted to the YYYY-MM-DD format.
+- **DEMOGRAPHIC Table:** Missing values marked as “?” were replaced with NULL.
+- **ACCOUNT Table:** Account creation dates are intentionally encrypted with random dates for privacy.
 
 ## Prerequisites
-Please make sure that the following commands return 'ON' and 'Path To Access Import/Export Data' in MySQL WorkBench:
+Before proceeding, ensure that MySQL Workbench returns 'ON' and 'Path To Access Import/Export Data' for the following configuration commands:
 ```
 SHOW VARIABLES LIKE "local_infile";
 SHOW VARIABLES LIKE "secure_file_priv";
