@@ -112,6 +112,12 @@ The `update_financial_analytics_after_insert` trigger keeps the `financial_analy
 
 ### 6. Implement all of the above mentioned procedures.
 
+<div align="center">
+  <a>
+    <img src="SQL Outputs/Analytical Table Snapshot.png" alt="ER Diagram" width="1000" height="100">
+  </a>
+</div>
+
 ## Data Mart Views and Materialized View for Financial Analytics
 
 ### **1. Loan Analysis View** (`loan_analysis_view`)
