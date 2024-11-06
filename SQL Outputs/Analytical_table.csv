@@ -1,0 +1,1001 @@
+account_id,account_creation_date,account_frequency,loan_amount,loan_duration,loan_status,client_id,client_birth_year,client_gender,client_region,urban_inhabitants,average_salary,unemployment_rate_1995,unemployment_rate_1996,transaction_total,transaction_type,credit_card_type,order_total_amount
+2,4446-11-13,"POPLATEK MESICNE",80952,24,"No problems",2,1945-02-04,Male,Prague,100,12541,0,0,42672,Credit,"No Card",21278
+2,4446-11-13,"POPLATEK MESICNE",80952,24,"No problems",3,1940-10-09,Female,Prague,100,12541,0,0,42672,Credit,"No Card",21278
+9,4446-08-06,"POPLATEK MESICNE",0,0,"No Loan",12,1981-02-20,Male,"north Bohemia",85,9317,6,7,12905,Credit,"No Card",0
+15,4448-12-28,"POPLATEK MESICNE",0,0,"No Loan",20,1979-01-04,Male,"east Bohemia",74,8369,2,2,0,"No Transactions","No Card",3072
+18,4447-09-09,"POPLATEK TYDNE",0,0,"No Loan",24,1939-07-29,Female,"east Bohemia",76,9425,2,3,0,"No Transactions","No Card",0
+23,4447-09-05,"POPLATEK MESICNE",0,0,"No Loan",29,1951-09-11,Female,"west Bohemia",82,9650,3,4,0,"No Transactions","No Card",5807
+26,4448-06-17,"POPLATEK MESICNE",0,0,"No Loan",32,1980-07-28,Male,"east Bohemia",62,8363,3,3,0,"No Transactions","No Card",10387
+27,4448-10-13,"POPLATEK MESICNE",0,0,"No Loan",33,1948-12-04,Female,"north Moravia",56,8746,3,4,0,"No Transactions","No Card",4054
+33,4448-07-05,"POPLATEK MESICNE",0,0,"No Loan",41,1968-08-27,Male,"west Bohemia",52,8620,1,1,0,"No Transactions",gold,3892
+34,4448-10-04,"POPLATEK TYDNE",0,0,"No Loan",42,1935-08-17,Male,"north Moravia",57,9893,4,5,0,"No Transactions",classic,8051
+35,4448-03-08,"POPLATEK MESICNE",0,0,"No Loan",43,1920-10-28,Male,"north Moravia",65,8819,5,6,0,"No Transactions","No Card",2384
+36,4448-03-02,"POPLATEK MESICNE",0,0,"No Loan",44,1977-01-11,Female,"north Bohemia",60,8965,7,8,0,"No Transactions","No Card",4069
+39,4448-10-09,"POPLATEK MESICNE",0,0,"No Loan",47,1934-07-14,Male,"north Moravia",51,8369,5,6,0,"No Transactions","No Card",3115
+40,4449-01-20,"POPLATEK MESICNE",0,0,"No Loan",48,1940-02-09,Male,"south Bohemia",57,8427,1,2,0,"No Transactions","No Card",4334
+44,4447-08-24,"POPLATEK MESICNE",0,0,"No Loan",52,1924-12-12,Male,"north Bohemia",81,9272,3,3,0,"No Transactions","No Card",2344
+47,4448-06-17,"POPLATEK MESICNE",0,0,"No Loan",55,1948-09-18,Female,"east Bohemia",54,8390,2,3,0,"No Transactions","No Card",7264
+62,4447-02-23,"POPLATEK MESICNE",0,0,"No Loan",72,1923-01-13,Male,"east Bohemia",73,9538,2,2,0,"No Transactions","No Card",2273
+73,4449-04-13,"POPLATEK MESICNE",0,0,"No Loan",87,1946-11-17,Female,"north Moravia",63,8994,4,5,0,"No Transactions",classic,6061
+78,4448-03-08,"POPLATEK MESICNE",0,0,"No Loan",92,1966-06-12,Female,"north Moravia",100,10673,5,5,0,"No Transactions","No Card",9039
+83,4447-05-22,"POPLATEK MESICNE",0,0,"No Loan",98,1973-05-04,Female,"north Bohemia",85,8705,6,8,0,"No Transactions","No Card",6150
+83,4447-05-22,"POPLATEK MESICNE",0,0,"No Loan",99,1973-01-26,Male,"north Bohemia",85,8705,6,8,0,"No Transactions","No Card",6150
+86,4447-02-02,"POPLATEK MESICNE",0,0,"No Loan",102,1958-09-10,Female,"north Moravia",100,10673,5,5,8086,Credit,"No Card",4324
+86,4447-02-02,"POPLATEK MESICNE",0,0,"No Loan",103,1955-07-11,Male,"north Moravia",100,10673,5,5,8086,Credit,"No Card",4324
+96,4446-11-05,"POPLATEK MESICNE",0,0,"No Loan",114,1969-06-24,Female,"north Moravia",100,10673,5,5,284105,Debit,classic,24480
+96,4446-11-05,"POPLATEK MESICNE",0,0,"No Loan",115,1969-12-24,Male,"north Moravia",100,10673,5,5,284105,Debit,"No Card",24480
+102,4449-01-11,"POPLATEK MESICNE",0,0,"No Loan",123,1969-02-12,Male,"central Bohemia",37,9622,0,1,0,"No Transactions","No Card",11120
+104,4447-05-21,"POPLATEK MESICNE",0,0,"No Loan",125,1936-10-31,Male,"north Bohemia",62,9065,4,5,0,"No Transactions","No Card",2042
+104,4447-05-21,"POPLATEK MESICNE",0,0,"No Loan",126,1929-09-27,Female,"north Bohemia",62,9065,4,5,0,"No Transactions","No Card",2042
+107,4449-04-10,"POPLATEK MESICNE",0,0,"No Loan",129,1947-05-31,Female,"south Moravia",75,9624,2,2,0,"No Transactions","No Card",4554
+112,4447-02-07,"POPLATEK MESICNE",0,0,"No Loan",134,1932-01-18,Male,"central Bohemia",52,8546,3,4,6782,Credit,"No Card",4102
+112,4447-02-07,"POPLATEK MESICNE",0,0,"No Loan",135,1938-09-10,Female,"central Bohemia",52,8546,3,4,6782,Credit,"No Card",4102
+115,4447-02-14,"POPLATEK MESICNE",0,0,"No Loan",138,1972-10-21,Female,"south Moravia",100,9897,2,2,800,Credit,classic,5110
+117,4448-09-22,"POPLATEK MESICNE",0,0,"No Loan",141,1925-11-02,Male,"west Bohemia",59,8930,4,4,0,"No Transactions","No Card",2329
+119,4447-09-08,"POPLATEK MESICNE",0,0,"No Loan",143,1978-07-09,Male,"west Bohemia",44,8561,1,1,0,"No Transactions","No Card",8252
+123,4447-02-08,"POPLATEK MESICNE",0,0,"No Loan",147,1933-11-02,Female,"south Bohemia",67,9104,2,2,200,Credit,"No Card",3016
+123,4447-02-08,"POPLATEK MESICNE",0,0,"No Loan",148,1940-12-25,Male,"south Bohemia",67,9104,2,2,200,Credit,"No Card",3016
+126,4449-01-18,"POPLATEK MESICNE",0,0,"No Loan",151,1971-09-23,Female,"east Bohemia",71,8541,3,3,0,"No Transactions","No Card",7384
+128,4446-11-06,"POPLATEK MESICNE",0,0,"No Loan",153,1981-02-12,Female,"central Bohemia",41,8598,3,3,11800,Credit,junior,0
+135,4447-12-07,"POPLATEK MESICNE",0,0,"No Loan",162,1941-10-17,Male,"south Moravia",44,8403,6,6,0,"No Transactions","No Card",0
+142,4446-11-02,"POPLATEK MESICNE",0,0,"No Loan",171,1929-06-25,Male,"east Bohemia",71,8541,3,3,5455,Credit,"No Card",3690
+142,4446-11-02,"POPLATEK MESICNE",0,0,"No Loan",172,1935-10-05,Female,"east Bohemia",71,8541,3,3,5455,Credit,"No Card",3690
+146,4448-09-19,"POPLATEK MESICNE",0,0,"No Loan",176,1929-03-11,Male,"central Bohemia",67,9753,5,5,0,"No Transactions","No Card",3823
+148,4447-12-13,"POPLATEK MESICNE",0,0,"No Loan",178,1960-12-22,Male,"central Bohemia",69,11277,1,1,0,"No Transactions","No Card",2312
+151,4448-09-23,"POPLATEK MESICNE",0,0,"No Loan",181,1967-07-06,Male,"north Moravia",51,8369,5,6,0,"No Transactions","No Card",3079
+151,4448-09-23,"POPLATEK MESICNE",0,0,"No Loan",182,1959-07-13,Female,"north Moravia",51,8369,5,6,0,"No Transactions","No Card",3079
+153,4448-10-06,"POPLATEK MESICNE",0,0,"No Loan",185,1954-05-30,Male,"north Moravia",54,8909,4,6,0,"No Transactions","No Card",4544
+160,4448-09-21,"POPLATEK MESICNE",0,0,"No Loan",193,1962-05-01,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",7926
+162,4448-07-04,"POPLATEK MESICNE",0,0,"No Loan",195,1919-11-18,Male,"north Moravia",100,10673,5,5,0,"No Transactions","No Card",3458
+162,4448-07-04,"POPLATEK MESICNE",0,0,"No Loan",196,1927-06-25,Female,"north Moravia",100,10673,5,5,0,"No Transactions","No Card",3458
+163,4446-08-06,"POPLATEK MESICNE",0,0,"No Loan",197,1933-04-25,Male,"west Bohemia",82,9650,3,4,28592,Credit,"No Card",11184
+165,4447-11-23,"POPLATEK MESICNE",0,0,"No Loan",199,1923-06-21,Male,"west Bohemia",56,8843,3,4,0,"No Transactions","No Card",1788
+165,4447-11-23,"POPLATEK MESICNE",0,0,"No Loan",200,1928-01-13,Female,"west Bohemia",56,8843,3,4,0,"No Transactions","No Card",1788
+168,4447-06-02,"POPLATEK MESICNE",0,0,"No Loan",203,1962-06-10,Male,"west Bohemia",59,8930,4,4,0,"No Transactions","No Card",2013
+168,4447-06-02,"POPLATEK MESICNE",0,0,"No Loan",204,1967-06-17,Female,"west Bohemia",59,8930,4,4,0,"No Transactions","No Card",2013
+172,4448-07-09,"POPLATEK MESICNE",0,0,"No Loan",208,1940-06-25,Female,"central Bohemia",41,8598,3,3,0,"No Transactions",classic,4221
+172,4448-07-09,"POPLATEK MESICNE",0,0,"No Loan",209,1935-08-20,Male,"central Bohemia",41,8598,3,3,0,"No Transactions","No Card",4221
+186,4448-03-30,"POPLATEK TYDNE",0,0,"No Loan",226,1942-06-16,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",6862
+187,4447-02-23,"POPLATEK MESICNE",0,0,"No Loan",227,1926-12-18,Female,"east Bohemia",62,8363,3,3,0,"No Transactions","No Card",2798
+188,4447-05-26,"POPLATEK MESICNE",0,0,"No Loan",228,1956-03-16,Female,"east Bohemia",59,9060,2,2,0,"No Transactions","No Card",7426
+192,4446-07-18,"POPLATEK MESICNE",0,0,"No Loan",232,1921-06-17,Female,"south Moravia",34,8743,2,2,12018,Credit,"No Card",10749
+196,4449-04-19,"POPLATEK MESICNE",0,0,"No Loan",238,1961-11-28,Female,"central Bohemia",52,8546,3,4,0,"No Transactions",classic,8626
+197,4446-11-12,"POPLATEK MESICNE",0,0,"No Loan",239,1974-09-10,Female,Prague,100,12541,0,0,22518,Credit,"No Card",18908
+198,4449-01-20,"POPLATEK MESICNE",0,0,"No Loan",240,1929-06-17,Female,"north Bohemia",88,9675,6,8,0,"No Transactions","No Card",2866
+207,4448-03-26,"POPLATEK MESICNE",0,0,"No Loan",250,1979-11-25,Female,"central Bohemia",69,11277,1,1,0,"No Transactions","No Card",3139
+212,4446-07-30,"POPLATEK TYDNE",0,0,"No Loan",255,1951-10-11,Female,"west Bohemia",44,8561,1,1,143932,Debit,classic,83046
+220,4447-05-15,"POPLATEK MESICNE",0,0,"No Loan",265,1933-01-07,Female,"north Moravia",63,8994,4,5,0,"No Transactions","No Card",3095
+222,4447-02-10,"POPLATEK MESICNE",0,0,"No Loan",267,1967-06-12,Male,"north Bohemia",62,9065,4,5,500,Credit,classic,3441
+225,4448-03-29,"POPLATEK MESICNE",0,0,"No Loan",270,1947-03-08,Male,"east Bohemia",74,8369,2,2,0,"No Transactions","No Card",3385
+225,4448-03-29,"POPLATEK MESICNE",0,0,"No Loan",271,1945-07-27,Female,"east Bohemia",74,8369,2,2,0,"No Transactions","No Card",3385
+228,4448-10-15,"POPLATEK MESICNE",0,0,"No Loan",274,1970-11-25,Female,"south Bohemia",61,8114,2,3,0,"No Transactions","No Card",4104
+234,4448-03-16,"POPLATEK MESICNE",0,0,"No Loan",282,1938-02-24,Female,"north Moravia",56,8746,3,4,0,"No Transactions","No Card",2809
+234,4448-03-16,"POPLATEK MESICNE",0,0,"No Loan",283,1933-11-04,Male,"north Moravia",56,8746,3,4,0,"No Transactions","No Card",2809
+235,4449-01-01,"POPLATEK MESICNE",0,0,"No Loan",284,1974-08-06,Male,"central Bohemia",47,10124,1,1,0,"No Transactions","No Card",2216
+238,4448-06-24,"POPLATEK MESICNE",0,0,"No Loan",288,1962-04-21,Male,"central Bohemia",52,8546,3,4,0,"No Transactions","No Card",2234
+239,4447-01-27,"POPLATEK TYDNE",0,0,"No Loan",289,1958-03-27,Male,"south Moravia",100,9897,2,2,900,Credit,"No Card",7189
+243,4449-04-11,"POPLATEK TYDNE",0,0,"No Loan",294,1968-03-21,Male,"south Moravia",64,8757,3,4,0,"No Transactions","No Card",4108
+244,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",295,1939-03-27,Male,"central Bohemia",58,8754,4,4,44616,Credit,classic,7944
+259,4449-01-23,"POPLATEK MESICNE",0,0,"No Loan",312,1924-07-03,Male,"central Bohemia",47,8507,2,2,0,"No Transactions","No Card",3154
+273,4448-03-12,"POPLATEK PO OBRATU",0,0,"No Loan",330,1944-08-05,Female,"south Moravia",44,8403,6,6,0,"No Transactions","No Card",9299
+274,4448-06-29,"POPLATEK MESICNE",0,0,"No Loan",331,1942-03-02,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",9886
+279,4447-05-20,"POPLATEK MESICNE",0,0,"No Loan",336,1964-02-11,Female,"north Bohemia",90,10446,7,9,0,"No Transactions","No Card",2004
+279,4447-05-20,"POPLATEK MESICNE",0,0,"No Loan",337,1957-05-08,Male,"north Bohemia",90,10446,7,9,0,"No Transactions","No Card",2004
+280,4446-08-02,"POPLATEK MESICNE",0,0,"No Loan",338,1951-06-19,Female,"central Bohemia",69,11277,1,1,107115,Debit,"No Card",53910
+287,4449-01-22,"POPLATEK MESICNE",0,0,"No Loan",349,1927-05-27,Female,"north Bohemia",90,10446,7,9,0,"No Transactions","No Card",2344
+299,4447-05-11,"POPLATEK MESICNE",0,0,"No Loan",364,1942-12-05,Female,"south Moravia",100,9897,2,2,0,"No Transactions","No Card",0
+300,4447-12-15,"POPLATEK MESICNE",0,0,"No Loan",365,1930-01-09,Male,Prague,100,12541,0,0,0,"No Transactions",classic,1628
+300,4447-12-15,"POPLATEK MESICNE",0,0,"No Loan",366,1936-11-10,Female,Prague,100,12541,0,0,0,"No Transactions","No Card",1628
+306,4447-11-30,"POPLATEK MESICNE",0,0,"No Loan",373,1936-02-28,Male,"south Bohemia",57,8427,1,2,0,"No Transactions","No Card",3657
+317,4447-02-05,"POPLATEK MESICNE",0,0,"No Loan",387,1927-06-06,Male,"north Moravia",51,8369,5,6,6722,Credit,"No Card",6136
+321,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",391,1933-05-22,Female,"east Bohemia",73,9538,2,2,0,"No Transactions","No Card",1876
+322,4446-11-07,"POPLATEK MESICNE",0,0,"No Loan",392,1950-04-01,Female,"north Moravia",100,10673,5,5,21246,Credit,"No Card",19650
+322,4446-11-07,"POPLATEK MESICNE",0,0,"No Loan",393,1956-08-31,Male,"north Moravia",100,10673,5,5,21246,Credit,"No Card",19650
+327,4447-11-24,"POPLATEK MESICNE",0,0,"No Loan",399,1952-04-14,Male,"east Bohemia",54,8390,2,3,0,"No Transactions","No Card",7057
+334,4447-09-07,"POPLATEK MESICNE",0,0,"No Loan",408,1978-02-22,Female,"north Bohemia",81,8867,1,1,0,"No Transactions","No Card",3542
+340,4449-04-08,"POPLATEK MESICNE",0,0,"No Loan",416,1932-10-07,Female,Prague,100,12541,0,0,0,"No Transactions","No Card",1818
+340,4449-04-08,"POPLATEK MESICNE",0,0,"No Loan",417,1930-06-10,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",1818
+346,4446-07-21,"POPLATEK MESICNE",0,0,"No Loan",423,1957-06-23,Male,"north Bohemia",62,9065,4,5,49832,Debit,"No Card",47250
+354,4449-01-23,"POPLATEK MESICNE",0,0,"No Loan",432,1952-03-26,Female,"south Moravia",62,8444,3,3,0,"No Transactions","No Card",4771
+361,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",439,1968-09-12,Female,"east Bohemia",71,8541,3,3,48476,Credit,classic,6658
+362,4447-05-10,"POPLATEK MESICNE",0,0,"No Loan",440,1970-07-07,Female,"south Bohemia",52,9045,3,4,0,"No Transactions","No Card",6361
+368,4448-03-07,"POPLATEK MESICNE",0,0,"No Loan",448,1970-08-15,Female,"north Moravia",54,8909,4,6,0,"No Transactions","No Card",6680
+374,4446-07-19,"POPLATEK MESICNE",0,0,"No Loan",454,1949-06-15,Female,"north Bohemia",60,8965,7,8,59951,Debit,"No Card",0
+381,4448-03-05,"POPLATEK MESICNE",0,0,"No Loan",461,1970-08-13,Female,"north Moravia",57,9893,4,5,0,"No Transactions","No Card",0
+385,4447-05-13,"POPLATEK MESICNE",0,0,"No Loan",465,1952-09-01,Male,"central Bohemia",51,9307,4,4,0,"No Transactions","No Card",2312
+389,4448-07-07,"POPLATEK MESICNE",0,0,"No Loan",470,1954-04-21,Female,"west Bohemia",82,9650,3,4,0,"No Transactions","No Card",4164
+395,4447-02-07,"POPLATEK MESICNE",0,0,"No Loan",476,1947-06-01,Female,Prague,100,12541,0,0,1200,Credit,"No Card",8735
+395,4447-02-07,"POPLATEK MESICNE",0,0,"No Loan",477,1954-07-20,Male,Prague,100,12541,0,0,1200,Credit,"No Card",8735
+396,4447-02-03,"POPLATEK MESICNE",0,0,"No Loan",478,1978-06-21,Male,"south Bohemia",67,9104,2,2,4000,Credit,"No Card",5882
+397,4449-01-21,"POPLATEK MESICNE",0,0,"No Loan",479,1947-08-20,Male,"central Bohemia",37,9622,0,1,0,"No Transactions","No Card",0
+397,4449-01-21,"POPLATEK MESICNE",0,0,"No Loan",480,1946-01-24,Female,"central Bohemia",37,9622,0,1,0,"No Transactions","No Card",0
+400,4448-03-18,"POPLATEK MESICNE",0,0,"No Loan",484,1959-09-13,Female,"west Bohemia",37,8594,2,2,0,"No Transactions","No Card",6948
+401,4446-07-28,"POPLATEK MESICNE",0,0,"No Loan",485,1978-05-16,Male,"north Bohemia",81,9272,3,3,75536,Debit,"No Card",32214
+403,4448-03-30,"POPLATEK MESICNE",0,0,"No Loan",487,1922-04-01,Female,Prague,100,12541,0,0,0,"No Transactions",classic,2401
+403,4448-03-30,"POPLATEK MESICNE",0,0,"No Loan",488,1917-08-02,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",2401
+408,4448-03-22,"POPLATEK MESICNE",0,0,"No Loan",493,1942-06-04,Female,"north Bohemia",86,9832,3,4,0,"No Transactions",classic,5042
+411,4446-10-23,"POPLATEK MESICNE",0,0,"No Loan",496,1951-05-21,Female,"north Moravia",90,10177,7,8,40336,Credit,classic,42495
+415,4447-01-29,"POPLATEK MESICNE",0,0,"No Loan",501,1937-10-28,Male,"south Moravia",41,8544,1,2,13510,Credit,"No Card",17480
+419,4449-01-20,"POPLATEK MESICNE",0,0,"No Loan",505,1977-12-21,Male,"central Bohemia",41,8598,3,3,0,"No Transactions","No Card",0
+423,4447-02-23,"POPLATEK MESICNE",0,0,"No Loan",509,1980-05-02,Male,"north Moravia",56,8746,3,4,0,"No Transactions","No Card",1942
+425,4447-02-14,"POPLATEK MESICNE",0,0,"No Loan",511,1959-02-18,Male,"central Bohemia",55,8899,3,4,1200,Credit,"No Card",3260
+428,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",515,1932-05-26,Male,Prague,100,12541,0,0,6814,Credit,"No Card",7974
+428,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",516,1930-04-27,Female,Prague,100,12541,0,0,6814,Credit,"No Card",7974
+432,4447-12-08,"POPLATEK MESICNE",0,0,"No Loan",520,1947-09-27,Female,"east Bohemia",74,8369,2,2,0,"No Transactions","No Card",0
+433,4447-12-04,"POPLATEK MESICNE",0,0,"No Loan",521,1975-12-25,Male,"north Moravia",48,8173,0,7,0,"No Transactions","No Card",0
+435,4446-07-18,"POPLATEK MESICNE",0,0,"No Loan",523,1922-12-17,Male,"north Bohemia",60,8965,7,8,10478,Credit,"No Card",9567
+443,4446-08-07,"POPLATEK MESICNE",0,0,"No Loan",534,1957-07-22,Male,"north Moravia",100,10673,5,5,19848,Credit,"No Card",6114
+445,4448-03-30,"POPLATEK TYDNE",0,0,"No Loan",536,1939-08-25,Male,"east Bohemia",73,9538,2,2,0,"No Transactions","No Card",11565
+446,4447-12-07,"POPLATEK MESICNE",0,0,"No Loan",537,1935-01-16,Male,Prague,100,12541,0,0,0,"No Transactions",classic,6941
+456,4446-07-31,"POPLATEK MESICNE",0,0,"No Loan",548,1937-12-04,Male,"east Bohemia",61,8208,2,2,136313,Debit,gold,28698
+459,4446-07-31,"POPLATEK MESICNE",0,0,"No Loan",551,1976-07-05,Female,"east Bohemia",73,9538,2,2,17500,Credit,"No Card",0
+461,4446-11-05,"POPLATEK MESICNE",0,0,"No Loan",554,1925-04-19,Female,"west Bohemia",82,9650,3,4,6988,Credit,"No Card",3060
+461,4446-11-05,"POPLATEK MESICNE",0,0,"No Loan",555,1926-10-21,Male,"west Bohemia",82,9650,3,4,6988,Credit,"No Card",3060
+462,4449-04-15,"POPLATEK MESICNE",0,0,"No Loan",556,1946-07-08,Male,"west Bohemia",56,8843,3,4,0,"No Transactions","No Card",8325
+465,4446-10-22,"POPLATEK MESICNE",0,0,"No Loan",559,1972-09-05,Female,"north Bohemia",81,9272,3,3,66228,Credit,"No Card",62025
+467,4448-10-11,"POPLATEK MESICNE",0,0,"No Loan",561,1962-11-10,Female,"north Moravia",100,10673,5,5,0,"No Transactions","No Card",6832
+477,4446-08-04,"POPLATEK MESICNE",0,0,"No Loan",574,1972-12-25,Male,Prague,100,12541,0,0,117294,Debit,"No Card",20262
+485,4446-07-14,"POPLATEK PO OBRATU",0,0,"No Loan",583,1965-01-01,Female,"north Moravia",65,8819,5,6,966012,Debit,"No Card",258638
+489,4447-08-31,"POPLATEK MESICNE",0,0,"No Loan",588,1960-10-20,Female,"south Moravia",54,8814,5,6,0,"No Transactions",classic,5608
+492,4449-01-05,"POPLATEK MESICNE",0,0,"No Loan",591,1974-10-29,Female,"south Moravia",44,8403,6,6,0,"No Transactions","No Card",0
+494,4447-02-06,"POPLATEK MESICNE",0,0,"No Loan",593,1954-07-10,Female,"south Moravia",52,8441,3,4,1200,Credit,classic,11565
+496,4446-11-13,"POPLATEK MESICNE",0,0,"No Loan",596,1948-10-24,Male,"north Moravia",48,8173,0,7,6204,Credit,"No Card",7204
+497,4447-05-21,"POPLATEK MESICNE",0,0,"No Loan",597,1943-02-22,Male,"south Moravia",34,8743,2,2,0,"No Transactions",classic,3405
+504,4447-05-27,"POPLATEK MESICNE",0,0,"No Loan",606,1949-01-25,Female,"central Bohemia",47,10124,1,1,0,"No Transactions","No Card",2308
+510,4447-11-24,"POPLATEK TYDNE",0,0,"No Loan",613,1977-08-10,Female,Prague,100,12541,0,0,0,"No Transactions","No Card",4804
+517,4448-10-09,"POPLATEK MESICNE",0,0,"No Loan",621,1939-03-17,Male,"south Moravia",100,9897,2,2,0,"No Transactions","No Card",9255
+519,4449-04-17,"POPLATEK MESICNE",0,0,"No Loan",623,1925-09-04,Male,"west Bohemia",80,8991,1,2,0,"No Transactions","No Card",3245
+519,4449-04-17,"POPLATEK MESICNE",0,0,"No Loan",624,1932-07-26,Female,"west Bohemia",80,8991,1,2,0,"No Transactions","No Card",3245
+520,4449-04-09,"POPLATEK MESICNE",0,0,"No Loan",625,1978-11-24,Female,"south Moravia",52,8441,3,4,0,"No Transactions","No Card",2332
+523,4448-06-20,"POPLATEK MESICNE",0,0,"No Loan",629,1976-03-10,Male,"south Bohemia",57,8427,1,2,0,"No Transactions",junior,0
+539,4446-11-03,"POPLATEK PO OBRATU",0,0,"No Loan",649,1978-05-02,Female,"central Bohemia",41,8598,3,3,14200,Credit,junior,0
+540,4449-01-11,"POPLATEK MESICNE",0,0,"No Loan",651,1976-01-27,Female,"south Moravia",100,9897,2,2,0,"No Transactions","No Card",0
+541,4448-06-21,"POPLATEK MESICNE",0,0,"No Loan",652,1938-12-08,Male,"south Moravia",54,8814,5,6,0,"No Transactions",classic,8728
+542,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",653,1930-11-21,Female,Prague,100,12541,0,0,0,"No Transactions","No Card",2750
+551,4447-08-21,"POPLATEK MESICNE",0,0,"No Loan",664,1980-03-19,Female,"north Moravia",54,8909,4,6,0,"No Transactions","No Card",0
+552,4448-06-29,"POPLATEK MESICNE",0,0,"No Loan",665,1932-04-05,Female,"south Moravia",41,8544,1,2,0,"No Transactions","No Card",2097
+555,4447-08-29,"POPLATEK MESICNE",0,0,"No Loan",668,1942-12-25,Female,Prague,100,12541,0,0,0,"No Transactions","No Card",7768
+559,4447-01-31,"POPLATEK MESICNE",0,0,"No Loan",672,1929-11-09,Female,"east Bohemia",74,8369,2,2,5972,Credit,"No Card",4350
+562,4446-11-12,"POPLATEK MESICNE",0,0,"No Loan",675,1975-11-12,Male,"east Bohemia",52,8187,5,5,4100,Credit,"No Card",0
+563,4448-03-28,"POPLATEK MESICNE",0,0,"No Loan",676,1953-02-07,Male,"north Moravia",90,10177,7,8,0,"No Transactions","No Card",6245
+574,4448-03-31,"POPLATEK MESICNE",0,0,"No Loan",689,1964-08-02,Male,"north Moravia",90,10177,7,8,0,"No Transactions","No Card",0
+576,4446-07-11,"POPLATEK MESICNE",0,0,"No Loan",692,1936-01-11,Female,"north Moravia",100,10673,5,5,19571,Credit,"No Card",21972
+576,4446-07-11,"POPLATEK MESICNE",0,0,"No Loan",693,1935-03-17,Male,"north Moravia",100,10673,5,5,19571,Credit,"No Card",21972
+588,4447-02-09,"POPLATEK MESICNE",0,0,"No Loan",706,1948-08-05,Male,Prague,100,12541,0,0,3000,Credit,"No Card",5089
+601,4448-06-13,"POPLATEK MESICNE",0,0,"No Loan",720,1954-09-06,Male,"west Bohemia",56,8843,3,4,0,"No Transactions","No Card",2230
+616,4449-01-09,"POPLATEK MESICNE",0,0,"No Loan",740,1923-11-07,Male,"south Moravia",34,8743,2,2,0,"No Transactions","No Card",1869
+623,4447-02-19,"POPLATEK MESICNE",0,0,"No Loan",748,1936-10-15,Male,"west Bohemia",62,8554,2,3,400,Credit,"No Card",2072
+623,4447-02-19,"POPLATEK MESICNE",0,0,"No Loan",749,1933-07-29,Female,"west Bohemia",62,8554,2,3,400,Credit,"No Card",2072
+624,4449-01-06,"POPLATEK MESICNE",0,0,"No Loan",750,1956-09-29,Female,"north Moravia",90,10177,7,8,0,"No Transactions","No Card",0
+626,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",752,1944-12-20,Male,"north Moravia",63,8994,4,5,0,"No Transactions","No Card",3639
+626,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",753,1940-09-24,Female,"north Moravia",63,8994,4,5,0,"No Transactions","No Card",3639
+627,4446-10-23,"POPLATEK MESICNE",0,0,"No Loan",754,1947-06-04,Female,"south Moravia",51,8288,4,5,92120,Credit,"No Card",43910
+630,4447-12-21,"POPLATEK MESICNE",0,0,"No Loan",757,1970-12-20,Female,"north Moravia",70,8678,6,6,0,"No Transactions","No Card",2361
+640,4447-11-24,"POPLATEK MESICNE",0,0,"No Loan",768,1931-09-23,Female,"north Bohemia",81,9272,3,3,0,"No Transactions","No Card",2891
+648,4449-04-14,"POPLATEK MESICNE",0,0,"No Loan",778,1940-06-04,Male,"central Bohemia",41,8598,3,3,0,"No Transactions",classic,9240
+652,4446-07-15,"POPLATEK MESICNE",0,0,"No Loan",782,1963-03-18,Female,"central Bohemia",51,9307,4,4,50109,Debit,"No Card",60728
+655,4447-02-19,"POPLATEK MESICNE",0,0,"No Loan",786,1978-09-06,Male,"south Moravia",51,8240,3,4,4000,Credit,junior,4469
+657,4448-06-17,"POPLATEK MESICNE",0,0,"No Loan",788,1974-09-03,Male,"east Bohemia",73,9538,2,2,0,"No Transactions","No Card",2928
+678,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",814,1959-10-01,Male,"south Bohemia",53,8402,3,4,0,"No Transactions","No Card",5088
+686,4447-05-10,"POPLATEK MESICNE",0,0,"No Loan",823,1956-10-24,Male,"north Bohemia",86,9832,3,4,0,"No Transactions","No Card",6070
+697,4446-11-10,"POPLATEK MESICNE",0,0,"No Loan",835,1943-10-20,Female,"west Bohemia",37,8594,2,2,24267,Credit,"No Card",19116
+697,4446-11-10,"POPLATEK MESICNE",0,0,"No Loan",836,1948-06-14,Male,"west Bohemia",37,8594,2,2,24267,Credit,"No Card",19116
+699,4448-10-04,"POPLATEK MESICNE",0,0,"No Loan",839,1955-05-18,Female,"east Bohemia",73,9538,2,2,0,"No Transactions","No Card",0
+701,4447-11-30,"POPLATEK MESICNE",0,0,"No Loan",841,1981-02-10,Male,"north Moravia",48,8173,0,7,0,"No Transactions","No Card",0
+702,4447-12-15,"POPLATEK MESICNE",0,0,"No Loan",842,1933-07-03,Female,"central Bohemia",58,8754,4,4,0,"No Transactions","No Card",2813
+704,4446-07-11,"POPLATEK MESICNE",0,0,"No Loan",844,1945-01-14,Male,"west Bohemia",52,8620,1,1,130740,Debit,"No Card",26704
+704,4446-07-11,"POPLATEK MESICNE",0,0,"No Loan",845,1953-01-30,Female,"west Bohemia",52,8620,1,1,130740,Debit,"No Card",26704
+717,4447-05-30,"POPLATEK MESICNE",0,0,"No Loan",859,1968-07-29,Female,Prague,100,12541,0,0,0,"No Transactions",classic,6561
+717,4447-05-30,"POPLATEK MESICNE",0,0,"No Loan",860,1967-12-08,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",6561
+721,4448-07-08,"POPLATEK MESICNE",0,0,"No Loan",864,1953-03-27,Male,"central Bohemia",37,9622,0,1,0,"No Transactions","No Card",2194
+721,4448-07-08,"POPLATEK MESICNE",0,0,"No Loan",865,1946-11-03,Female,"central Bohemia",37,9622,0,1,0,"No Transactions","No Card",2194
+730,4448-07-07,"POPLATEK MESICNE",0,0,"No Loan",876,1960-11-25,Male,Prague,100,12541,0,0,0,"No Transactions",classic,0
+738,4447-12-13,"POPLATEK MESICNE",0,0,"No Loan",886,1948-02-02,Male,"north Bohemia",88,9675,6,8,0,"No Transactions",gold,4723
+743,4449-04-10,"POPLATEK MESICNE",0,0,"No Loan",891,1931-01-31,Male,"north Bohemia",85,8705,6,8,0,"No Transactions","No Card",2691
+744,4447-02-01,"POPLATEK MESICNE",0,0,"No Loan",892,1922-05-24,Female,"east Bohemia",59,8388,2,3,6140,Credit,"No Card",4330
+747,4448-06-18,"POPLATEK MESICNE",0,0,"No Loan",895,1970-07-03,Male,"north Bohemia",90,10446,7,9,0,"No Transactions","No Card",2672
+748,4447-05-14,"POPLATEK MESICNE",0,0,"No Loan",896,1973-04-24,Female,"north Bohemia",85,9198,3,4,0,"No Transactions","No Card",6492
+748,4447-05-14,"POPLATEK MESICNE",0,0,"No Loan",897,1981-03-25,Male,"north Bohemia",85,9198,3,4,0,"No Transactions","No Card",6492
+750,4448-09-29,"POPLATEK MESICNE",0,0,"No Loan",900,1977-04-10,Male,"north Moravia",56,8746,3,4,0,"No Transactions",junior,6615
+751,4447-08-26,"POPLATEK MESICNE",0,0,"No Loan",901,1919-12-21,Male,"north Bohemia",90,10446,7,9,0,"No Transactions","No Card",2363
+757,4448-03-20,"POPLATEK MESICNE",0,0,"No Loan",907,1948-03-11,Male,"east Bohemia",71,8541,3,3,0,"No Transactions",classic,0
+759,4448-06-10,"POPLATEK MESICNE",0,0,"No Loan",909,1975-09-07,Male,"west Bohemia",86,8624,2,3,0,"No Transactions","No Card",0
+764,4446-07-18,"POPLATEK MESICNE",0,0,"No Loan",914,1921-01-19,Female,Prague,100,12541,0,0,13576,Credit,"No Card",0
+772,4446-07-31,"POPLATEK MESICNE",0,0,"No Loan",924,1953-07-12,Male,Prague,100,12541,0,0,61750,Debit,"No Card",0
+773,4447-12-11,"POPLATEK MESICNE",0,0,"No Loan",925,1959-08-13,Male,"south Moravia",100,9897,2,2,0,"No Transactions","No Card",0
+774,4447-11-30,"POPLATEK MESICNE",0,0,"No Loan",926,1981-01-22,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",0
+787,4449-04-19,"POPLATEK MESICNE",0,0,"No Loan",941,1935-10-05,Male,"central Bohemia",47,10124,1,1,0,"No Transactions","No Card",0
+790,4447-08-25,"POPLATEK MESICNE",208128,48,"Loan not paid",946,1951-08-06,Male,"south Moravia",100,9897,2,2,0,"No Transactions",classic,0
+793,4446-07-13,"POPLATEK MESICNE",0,0,"No Loan",950,1965-04-12,Female,"north Moravia",51,8369,5,6,11036,Credit,"No Card",0
+793,4446-07-13,"POPLATEK MESICNE",0,0,"No Loan",951,1960-09-17,Male,"north Moravia",51,8369,5,6,11036,Credit,"No Card",0
+799,4449-01-05,"POPLATEK MESICNE",0,0,"No Loan",957,1941-12-23,Female,"south Moravia",46,8772,5,5,0,"No Transactions","No Card",0
+799,4449-01-05,"POPLATEK MESICNE",0,0,"No Loan",958,1942-05-04,Male,"south Moravia",46,8772,5,5,0,"No Transactions","No Card",0
+813,4446-10-28,"POPLATEK MESICNE",24312,12,"No problems",976,1955-11-19,Female,"south Bohemia",57,8427,1,2,26144,Credit,"No Card",0
+815,4448-07-04,"POPLATEK MESICNE",0,0,"No Loan",978,1968-06-09,Female,"south Moravia",46,8772,5,5,0,"No Transactions","No Card",0
+815,4448-07-04,"POPLATEK MESICNE",0,0,"No Loan",979,1966-11-18,Male,"south Moravia",46,8772,5,5,0,"No Transactions","No Card",0
+816,4448-06-14,"POPLATEK MESICNE",48624,24,"No problems",980,1961-09-30,Male,"north Bohemia",85,9317,6,7,0,"No Transactions","No Card",0
+830,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",999,1966-09-01,Female,"north Moravia",100,10673,5,5,18923,Credit,classic,0
+830,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",1000,1961-10-27,Male,"north Moravia",100,10673,5,5,18923,Credit,"No Card",0
+837,4448-10-05,"POPLATEK MESICNE",0,0,"No Loan",1008,1956-07-06,Male,"central Bohemia",52,8546,3,4,0,"No Transactions","No Card",0
+838,4449-01-18,"POPLATEK MESICNE",0,0,"No Loan",1009,1962-04-27,Female,"north Bohemia",85,8705,6,8,0,"No Transactions","No Card",0
+838,4449-01-18,"POPLATEK MESICNE",0,0,"No Loan",1010,1955-08-16,Male,"north Bohemia",85,8705,6,8,0,"No Transactions","No Card",0
+841,4449-04-09,"POPLATEK MESICNE",0,0,"No Loan",1014,1931-02-08,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",0
+854,4448-10-08,"POPLATEK MESICNE",87216,48,"Running, OK",1029,1954-03-16,Female,Prague,100,12541,0,0,0,"No Transactions","No Card",0
+857,4448-10-03,"POPLATEK MESICNE",0,0,"No Loan",1032,1938-10-30,Female,Prague,100,12541,0,0,0,"No Transactions","No Card",0
+857,4448-10-03,"POPLATEK MESICNE",0,0,"No Loan",1033,1937-10-14,Male,Prague,100,12541,0,0,0,"No Transactions","No Card",0
+860,4447-02-14,"POPLATEK MESICNE",0,0,"No Loan",1037,1965-11-01,Female,Prague,100,12541,0,0,600,Credit,"No Card",0
+861,4448-09-30,"POPLATEK MESICNE",0,0,"No Loan",1038,1961-09-23,Female,"north Moravia",48,8173,0,7,0,"No Transactions","No Card",0
+862,4446-10-20,"POPLATEK TYDNE",0,0,"No Loan",1039,1980-10-11,Female,"north Moravia",90,10177,7,8,99705,Debit,junior,0
+863,4447-08-30,"POPLATEK MESICNE",0,0,"No Loan",1040,1960-06-17,Male,Prague,100,12541,0,0,0,"No Transactions",classic,0
+866,4446-07-20,"POPLATEK MESICNE",0,0,"No Loan",1044,1971-09-13,Female,"central Bohemia",55,8899,3,4,52372,Debit,"No Card",0
+882,4447-02-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,11887,Credit,"No Card",0
+885,4447-12-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+886,4447-12-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+887,4447-08-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+890,4446-10-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,25505,Credit,"No Card",0
+892,4447-02-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,900,Credit,"No Card",0
+897,4447-06-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+899,4447-12-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+902,4447-12-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+907,4448-03-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+914,4449-04-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+925,4446-11-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,23200,Credit,"No Card",0
+928,4447-06-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+929,4448-03-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+930,4448-06-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+931,4449-01-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+942,4448-06-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+943,4446-10-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7248,Credit,"No Card",0
+944,4447-02-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,17427,Credit,"No Card",0
+947,4447-08-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+950,4448-07-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+965,4448-07-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+977,4447-06-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+978,4448-06-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+979,4446-11-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,20114,Credit,"No Card",0
+982,4446-10-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,18219,Credit,"No Card",0
+991,4447-09-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+998,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1000,4446-08-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,64418,Debit,"No Card",0
+1005,4446-11-10,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,40183,Debit,"No Card",0
+1006,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,16037,Credit,"No Card",0
+1016,4448-10-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1018,4447-11-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1019,4446-07-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,54325,Debit,"No Card",0
+1023,4448-06-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1032,4447-06-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1039,4447-08-24,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1048,4447-08-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1050,4446-11-11,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,27117,Debit,"No Card",0
+1051,4449-01-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1052,4448-10-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1054,4446-11-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,17250,Credit,"No Card",0
+1057,4448-07-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1062,4448-03-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1065,4447-02-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1069,4448-03-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1071,4447-08-24,"POPLATEK TYDNE",253200,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1077,4447-01-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,2500,Credit,"No Card",0
+1079,4448-10-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1091,4448-09-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1106,4448-07-08,"POPLATEK TYDNE",192552,24,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1107,4448-09-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1114,4449-04-18,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1115,4447-02-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1116,4448-03-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1118,4448-03-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1120,4448-12-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1123,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1126,4447-02-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1100,Credit,"No Card",0
+1127,4446-08-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,49072,Credit,"No Card",0
+1132,4446-10-21,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,109142,Debit,"No Card",0
+1133,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1134,4446-10-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,20570,Credit,"No Card",0
+1136,4448-06-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1144,4446-08-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6950,Credit,"No Card",0
+1145,4448-03-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1146,4448-09-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1147,4447-05-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1152,4447-05-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1157,4447-02-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1161,4447-08-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1166,4447-05-27,"POPLATEK MESICNE",149040,48,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1179,4446-08-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,9124,Credit,"No Card",0
+1180,4447-09-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1189,4447-02-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,600,Credit,"No Card",0
+1197,4448-09-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1200,4447-08-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1201,4448-03-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1207,4447-11-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1217,4449-01-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1222,4446-07-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,13320,Credit,"No Card",0
+1234,4448-09-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1236,4447-08-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1239,4447-05-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1247,4447-11-30,"POPLATEK MESICNE",99696,48,"Client in debt",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1268,4448-03-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1272,4447-09-08,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1276,4446-07-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,33629,Debit,"No Card",0
+1277,4447-12-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1285,4447-11-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1297,4448-03-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1299,4447-12-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1305,4448-07-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1322,4448-03-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1332,4447-02-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,300,Credit,"No Card",0
+1334,4447-08-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1337,4448-09-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1338,4446-07-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,46176,Debit,"No Card",0
+1345,4449-01-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1366,4446-11-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,8526,Credit,"No Card",0
+1372,4447-02-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,300,Credit,"No Card",0
+1373,4447-12-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1378,4447-01-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,25519,Credit,"No Card",0
+1381,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1382,4448-06-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1392,4447-06-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1397,4447-02-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,700,Credit,"No Card",0
+1401,4448-06-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1402,4447-02-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1404,4448-10-09,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1410,4448-09-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1411,4448-03-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1412,4447-09-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1416,4448-03-13,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1422,4447-05-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1425,4448-03-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1429,4448-03-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1440,4448-10-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1442,4447-09-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1449,4448-07-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1451,4447-12-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1453,4448-10-12,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1468,4449-01-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1475,4447-12-06,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1476,4447-06-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1477,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7012,Credit,"No Card",0
+1481,4446-07-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7196,Credit,"No Card",0
+1485,4448-12-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1487,4448-09-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1493,4446-07-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,15262,Credit,"No Card",0
+1495,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1497,4448-03-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1505,4447-05-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1507,4448-06-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1513,4448-07-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1515,4447-12-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1516,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1518,4447-05-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1534,4447-09-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1535,4447-02-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,200,Credit,"No Card",0
+1536,4446-08-01,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,63549,Debit,"No Card",0
+1539,4446-07-13,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,69788,Debit,"No Card",0
+1544,4448-03-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1545,4447-02-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,200,Credit,"No Card",0
+1547,4448-10-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1565,4449-01-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1566,4448-03-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1575,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6348,Credit,"No Card",0
+1584,4447-09-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1589,4448-06-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1601,4446-10-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,4542,Credit,"No Card",0
+1602,4448-10-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1603,4447-08-23,"POPLATEK MESICNE",78936,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1610,4447-08-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1617,4447-11-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1628,4446-07-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,13562,Credit,"No Card",0
+1630,4448-03-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1637,4446-07-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,17696,Credit,"No Card",0
+1644,4447-08-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1649,4446-08-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,11700,Credit,"No Card",0
+1652,4447-09-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1658,4447-08-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1666,4449-01-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1671,4447-08-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1675,4446-10-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,9768,Credit,"No Card",0
+1678,4446-11-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,23516,Debit,"No Card",0
+1684,4448-03-11,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1688,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6239,Credit,"No Card",0
+1689,4448-09-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1694,4448-07-08,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1695,4446-07-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,24821,Credit,"No Card",0
+1699,4446-07-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,11248,Credit,"No Card",0
+1701,4448-06-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1705,4448-10-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1713,4447-01-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1400,Credit,"No Card",0
+1719,4448-09-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1721,4447-02-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1100,Credit,"No Card",0
+1726,4446-07-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,52249,Debit,"No Card",0
+1730,4446-07-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,14278,Credit,"No Card",0
+1731,4446-07-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,9716,Credit,"No Card",0
+1743,4447-11-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1750,4446-08-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,53340,Debit,"No Card",0
+1761,4448-07-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1767,4449-01-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1771,4447-02-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1773,4447-05-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1775,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7832,Credit,"No Card",0
+1779,4448-06-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1780,4447-05-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1782,4447-08-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1784,4447-08-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1786,4447-09-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1787,4447-02-17,"POPLATEK TYDNE",96396,12,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,1100,Credit,"No Card",0
+1789,4449-01-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1801,4446-10-31,"POPLATEK MESICNE",165960,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,68317,Credit,"No Card",0
+1804,4448-10-10,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1805,4446-10-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,10600,Credit,"No Card",0
+1806,4446-07-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,10458,Credit,"No Card",0
+1809,4449-04-17,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1811,4448-10-09,"POPLATEK MESICNE",239460,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1815,4447-05-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1816,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1822,4447-08-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1827,4448-09-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1829,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,8329,Credit,"No Card",0
+1830,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,20238,Credit,"No Card",0
+1831,4448-10-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1834,4448-06-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1837,4447-12-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1843,4446-08-09,"POPLATEK MESICNE",105804,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,40164,Credit,"No Card",0
+1844,4446-07-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,10255,Credit,"No Card",0
+1851,4447-09-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1852,4448-03-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1861,4448-03-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1874,4447-02-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1875,4448-06-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1887,4447-08-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1891,4447-05-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1892,4448-03-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1896,4448-12-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1898,4447-05-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1902,4448-03-18,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1909,4446-07-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7182,Credit,"No Card",0
+1912,4448-06-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1925,4448-06-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1926,4446-07-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,26690,Credit,"No Card",0
+1930,4447-12-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1937,4447-09-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1941,4449-04-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1944,4446-10-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,21680,Credit,"No Card",0
+1947,4449-04-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1965,4446-10-26,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,12800,Credit,"No Card",0
+1966,4446-10-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,49582,Debit,"No Card",0
+1972,4446-07-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,16337,Credit,"No Card",0
+1978,4447-12-03,"POPLATEK TYDNE",205200,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1979,4446-07-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6942,Credit,"No Card",0
+1981,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1984,4449-04-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1990,4447-12-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1998,4447-12-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+1999,4447-11-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2002,4447-05-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2008,4447-05-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2011,4447-02-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,900,Credit,"No Card",0
+2020,4448-09-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2022,4447-12-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2023,4446-08-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,49964,Credit,"No Card",0
+2029,4447-09-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2037,4447-08-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2038,4448-06-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2039,4447-02-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,300,Credit,"No Card",0
+2050,4449-01-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2052,4449-01-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2056,4447-05-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2061,4447-08-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2068,4447-11-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2070,4446-08-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,32279,Credit,"No Card",0
+2072,4449-01-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2078,4448-03-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2082,4448-09-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2087,4446-07-18,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,40629,Debit,"No Card",0
+2088,4448-03-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2099,4446-07-22,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,169639,Debit,"No Card",0
+2110,4446-11-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,3676,Credit,"No Card",0
+2122,4446-07-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,159325,Debit,"No Card",0
+2123,4448-03-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2124,4446-11-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,24031,Credit,"No Card",0
+2132,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2137,4448-06-26,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2140,4449-01-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2146,4447-11-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2150,4448-09-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2167,4448-06-17,"POPLATEK MESICNE",170256,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2175,4447-06-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2176,4447-11-28,"POPLATEK MESICNE",299088,36,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2177,4446-07-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,16216,Credit,"No Card",0
+2180,4449-01-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2186,4448-03-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2189,4447-05-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2199,4448-06-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2201,4448-12-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2213,4448-03-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2216,4447-05-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2219,4447-02-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,400,Credit,"No Card",0
+2220,4446-10-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7253,Credit,"No Card",0
+2222,4447-08-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2241,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,20484,Credit,"No Card",0
+2242,4446-11-12,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,43793,Credit,"No Card",0
+2245,4447-02-25,"POPLATEK MESICNE",347952,48,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2250,4449-04-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2253,4448-03-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2256,4446-10-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,10171,Credit,"No Card",0
+2269,4449-04-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2271,4449-04-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2276,4449-01-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2282,4448-10-04,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2293,4446-10-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7445,Credit,"No Card",0
+2298,4448-03-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2302,4448-09-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2313,4447-05-19,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2318,4449-04-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2321,4447-08-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2327,4447-11-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2330,4446-07-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6990,Credit,"No Card",0
+2336,4448-03-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2342,4446-10-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,3647,Credit,"No Card",0
+2345,4449-01-20,"POPLATEK MESICNE",199680,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2357,4446-07-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,20151,Credit,"No Card",0
+2378,4446-07-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,316381,Debit,"No Card",0
+2379,4446-07-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,27500,Debit,"No Card",0
+2388,4447-12-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2393,4446-07-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,41224,Debit,"No Card",0
+2396,4446-11-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,4703,Credit,"No Card",0
+2410,4447-08-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2411,4447-12-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2417,4448-06-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2423,4446-11-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6071,Credit,"No Card",0
+2425,4446-08-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,27529,Debit,"No Card",0
+2427,4449-01-03,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2428,4448-09-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2429,4446-10-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,20309,Credit,"No Card",0
+2433,4446-11-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,5218,Credit,"No Card",0
+2434,4446-10-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,19995,Credit,"No Card",0
+2435,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2436,4447-09-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2453,4447-02-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,3685,Credit,"No Card",0
+2457,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2458,4447-02-09,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1100,Credit,"No Card",0
+2464,4448-03-03,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2467,4447-09-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2479,4449-01-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2484,4446-07-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,59198,Debit,"No Card",0
+2486,4446-11-14,"POPLATEK MESICNE",24516,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,39020,Credit,"No Card",0
+2488,4447-05-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2489,4447-02-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6681,Credit,"No Card",0
+2493,4447-02-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2497,4447-02-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,300,Credit,"No Card",0
+2503,4447-01-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,600,Credit,"No Card",0
+2508,4447-02-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,700,Credit,"No Card",0
+2510,4448-07-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2513,4448-03-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2519,4446-07-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,11588,Credit,"No Card",0
+2523,4447-08-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2527,4447-02-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1000,Credit,"No Card",0
+2528,4447-02-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1000,Credit,"No Card",0
+2534,4447-11-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2542,4448-06-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2543,4446-10-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,13412,Credit,"No Card",0
+2549,4449-04-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2552,4448-03-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2554,4447-12-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2555,4447-02-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,20122,Credit,"No Card",0
+2566,4446-08-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,11500,Credit,"No Card",0
+2574,4446-10-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,32677,Credit,"No Card",0
+2576,4448-09-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2581,4447-02-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,20153,Credit,"No Card",0
+2582,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2583,4447-08-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2584,4448-03-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2585,4446-10-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,35164,Credit,"No Card",0
+2592,4448-09-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2599,4447-05-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2609,4447-08-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2613,4448-12-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2616,4448-06-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2617,4448-10-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2618,4447-02-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,600,Credit,"No Card",0
+2620,4448-06-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2623,4449-01-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2632,4446-07-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,56062,Debit,"No Card",0
+2639,4447-06-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2641,4447-08-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2645,4447-09-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2647,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,26065,Credit,"No Card",0
+2648,4447-05-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2649,4448-09-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2651,4447-02-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,200,Credit,"No Card",0
+2660,4449-01-12,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2665,4449-04-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2666,4447-02-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,3501,Credit,"No Card",0
+2667,4449-01-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2670,4446-08-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,51273,Debit,"No Card",0
+2671,4448-10-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2676,4446-08-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,38548,Debit,"No Card",0
+2687,4448-03-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2691,4448-09-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2694,4447-02-03,"POPLATEK MESICNE",91632,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,18285,Credit,"No Card",0
+2695,4448-10-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2697,4447-12-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2700,4449-04-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2701,4448-03-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2705,4448-03-06,"POPLATEK PO OBRATU",93888,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2711,4447-09-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2712,4447-02-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,400,Credit,"No Card",0
+2714,4446-08-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,14200,Credit,"No Card",0
+2732,4448-03-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2736,4448-03-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2738,4449-04-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2741,4447-11-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2758,4447-09-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2762,4447-02-15,"POPLATEK MESICNE",111384,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,30860,Credit,"No Card",0
+2763,4446-10-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,83521,Debit,"No Card",0
+2771,4448-06-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2779,4447-12-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2793,4449-01-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2802,4448-10-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2814,4447-05-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2817,4447-05-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2818,4448-03-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2823,4447-05-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2824,4449-01-15,"POPLATEK MESICNE",50460,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2838,4447-05-19,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2841,4448-03-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2849,4448-10-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2859,4449-01-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2861,4446-10-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6215,Credit,"No Card",0
+2862,4447-11-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2867,4449-04-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2876,4447-05-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2880,4447-12-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2881,4446-07-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,31362,Credit,"No Card",0
+2884,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,21039,Credit,"No Card",0
+2894,4448-07-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2895,4447-02-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,18446,Credit,"No Card",0
+2896,4447-02-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2902,4446-08-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,44533,Credit,"No Card",0
+2907,4448-09-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2915,4448-03-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2925,4446-07-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,31428,Debit,"No Card",0
+2926,4446-07-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,35716,Debit,"No Card",0
+2932,4447-08-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2933,4447-12-10,"POPLATEK MESICNE",272520,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2938,4448-06-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2940,4447-12-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2951,4448-09-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2958,4448-10-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2962,4447-09-13,"POPLATEK MESICNE",31248,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2970,4446-08-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,33439,Debit,"No Card",0
+2974,4447-02-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1100,Credit,"No Card",0
+2985,4447-05-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2987,4448-10-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+2991,4447-09-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3000,4448-03-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3001,4447-02-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,400,Credit,"No Card",0
+3007,4446-10-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,46677,Credit,"No Card",0
+3008,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7134,Credit,"No Card",0
+3011,4448-09-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3026,4446-11-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,24440,Credit,"No Card",0
+3028,4448-10-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3032,4447-11-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3035,4448-06-25,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3042,4448-10-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3047,4446-11-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,4074,Credit,"No Card",0
+3050,4447-08-22,"POPLATEK MESICNE",82896,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3053,4448-07-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3063,4447-09-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3064,4447-09-06,"POPLATEK MESICNE",15420,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3068,4447-05-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3069,4447-02-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,400,Credit,"No Card",0
+3072,4447-11-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3076,4447-02-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3078,4448-03-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3086,4449-04-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3091,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3096,4447-12-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3099,4447-09-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3108,4447-02-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,600,Credit,"No Card",0
+3113,4448-06-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3117,4446-11-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6255,Credit,"No Card",0
+3127,4448-06-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3133,4447-12-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3136,4448-06-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3146,4449-01-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3152,4448-03-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3157,4448-09-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3166,4448-06-19,"POPLATEK MESICNE",177744,48,"Client in debt",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3168,4446-11-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7303,Credit,"No Card",0
+3171,4448-10-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3173,4447-08-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3181,4447-08-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3195,4448-09-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3210,4447-08-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3212,4448-03-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3213,4447-05-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3218,4449-04-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3220,4448-06-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3221,4448-06-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3222,4448-03-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3225,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3237,4448-12-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3241,4448-03-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3243,4449-04-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3246,4447-12-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3255,4448-10-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3258,4447-11-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3260,4447-02-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,400,Credit,"No Card",0
+3261,4448-03-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3264,4449-01-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3267,4448-03-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3268,4448-10-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3277,4448-03-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3283,4447-02-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,300,Credit,"No Card",0
+3284,4447-08-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3287,4448-03-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3298,4448-06-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3302,4447-01-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,3708,Credit,"No Card",0
+3306,4448-07-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3310,4448-10-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3316,4447-08-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3319,4448-07-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3323,4448-09-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3326,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3327,4447-05-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3352,4449-04-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3354,4449-04-10,"POPLATEK MESICNE",4980,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3361,4448-07-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3367,4447-05-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3370,4449-04-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3371,4449-04-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3374,4446-11-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,26584,Credit,"No Card",0
+3391,4447-05-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3407,4448-07-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3408,4448-10-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3413,4448-03-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3424,4446-11-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,55536,Debit,"No Card",0
+3435,4448-03-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3456,4448-09-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3465,4448-03-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3469,4447-09-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3477,4448-07-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3480,4448-10-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3483,4449-01-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3487,4446-07-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,54297,Debit,"No Card",0
+3493,4448-03-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3505,4448-10-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3509,4448-09-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3510,4446-07-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,25870,Debit,"No Card",0
+3513,4447-01-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,19578,Credit,"No Card",0
+3514,4446-10-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,7411,Credit,"No Card",0
+3521,4447-12-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3535,4448-12-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3538,4448-06-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3542,4447-12-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3545,4446-11-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,22503,Credit,"No Card",0
+3547,4448-06-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3548,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3551,4449-01-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3554,4446-11-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,64283,Debit,"No Card",0
+3558,4447-09-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3566,4447-12-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3575,4448-09-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3580,4448-06-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3586,4447-02-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3592,4446-07-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,18669,Credit,"No Card",0
+3593,4446-11-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,19887,Credit,"No Card",0
+3600,4448-06-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3609,4448-06-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3613,4448-06-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3617,4449-04-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3618,4448-10-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3629,4448-03-28,"POPLATEK MESICNE",158760,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3640,4449-04-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3644,4447-05-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3649,4447-08-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3651,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,5881,Credit,"No Card",0
+3654,4448-03-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3656,4448-06-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3660,4449-04-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3670,4447-11-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3674,4447-02-07,"POPLATEK MESICNE",23628,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,1000,Credit,"No Card",0
+3675,4447-02-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,700,Credit,"No Card",0
+3678,4447-02-19,"POPLATEK MESICNE",316140,60,"Client in debt",NULL,NULL,NULL,Unknown,0,0,0,0,800,Credit,"No Card",0
+3682,4447-11-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3683,4448-06-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3687,4449-04-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3688,4449-04-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3691,4446-11-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6940,Credit,"No Card",0
+3693,4446-08-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,35097,Credit,"No Card",0
+3697,4447-06-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3699,4448-06-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3701,4449-01-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3704,4446-08-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,12984,Credit,"No Card",0
+3713,4447-11-30,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3720,4448-03-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3734,4447-02-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,5939,Credit,"No Card",0
+3738,4448-06-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3745,4448-06-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3748,4448-03-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3751,4448-10-02,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3760,4446-07-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,104935,Debit,"No Card",0
+3771,4447-12-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3775,4447-12-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3778,4448-03-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3781,4447-02-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,800,Credit,"No Card",0
+3785,4447-02-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,200,Credit,"No Card",0
+3786,4447-12-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3787,4446-11-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,23550,Credit,"No Card",0
+3788,4447-05-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3792,4448-06-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3796,4447-09-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3808,4448-06-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3818,4446-07-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,59037,Debit,"No Card",0
+3820,4449-04-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3822,4448-10-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3834,4446-07-29,"POPLATEK MESICNE",23052,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,41785,Debit,"No Card",0
+3835,4447-02-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,900,Credit,"No Card",0
+3837,4448-07-05,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3844,4447-09-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3850,4448-06-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3863,4448-10-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3868,4448-06-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3871,4446-07-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,9012,Credit,"No Card",0
+3882,4448-03-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3883,4447-02-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1200,Credit,"No Card",0
+3888,4447-09-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3891,4448-06-27,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3892,4449-01-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3909,4446-07-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,63959,Debit,"No Card",0
+3915,4447-05-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3920,4448-09-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3923,4447-02-25,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3927,4449-01-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3935,4447-02-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,1000,Credit,"No Card",0
+3939,4448-03-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3948,4449-04-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3954,4447-12-17,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3955,4448-03-15,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3960,4446-10-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,5307,Credit,"No Card",0
+3965,4447-08-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3969,4447-12-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3972,4449-01-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3977,4448-10-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3980,4447-05-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3982,4448-03-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+3983,4446-10-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,30405,Debit,"No Card",0
+3999,4447-08-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4000,4448-06-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4013,4449-01-03,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4034,4446-07-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,21884,Credit,"No Card",0
+4035,4448-03-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4055,4446-08-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,51583,Debit,"No Card",0
+4059,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4078,4446-08-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,50272,Credit,"No Card",0
+4079,4449-04-08,"POPLATEK MESICNE",158976,48,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4093,4447-02-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,400,Credit,"No Card",0
+4119,4449-01-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4134,4447-01-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,50928,Credit,"No Card",0
+4159,4448-03-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4171,4447-12-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4173,4449-04-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4225,4447-09-01,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4240,4446-10-26,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,70220,Debit,"No Card",0
+4254,4447-08-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4255,4449-04-13,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4260,4449-01-09,"POPLATEK MESICNE",244560,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4287,4449-01-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4296,4446-08-07,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,42865,Credit,"No Card",0
+4318,4447-05-19,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4321,4447-05-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4347,4447-02-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4350,4447-05-10,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4352,4448-03-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4355,4446-11-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,16200,Credit,"No Card",0
+4377,4447-05-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4414,4448-09-27,"POPLATEK MESICNE",97224,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4427,4447-11-29,"POPLATEK MESICNE",87816,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4437,4448-10-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4448,4447-11-24,"POPLATEK MESICNE",192744,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4463,4448-09-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4470,4449-04-06,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4478,4448-03-24,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4484,4446-10-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,193007,Debit,"No Card",0
+4511,4448-10-13,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4543,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4576,4447-11-27,"POPLATEK MESICNE",300204,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4596,4447-02-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,700,Credit,"No Card",0
+4659,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4743,4447-08-19,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4894,4447-12-12,"POPLATEK MESICNE",117024,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+4937,4446-11-07,"POPLATEK MESICNE",143904,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,89165,Debit,"No Card",0
+5011,4448-07-04,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5065,4446-08-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,42371,Debit,"No Card",0
+5120,4447-12-13,"POPLATEK MESICNE",323472,48,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5129,4447-11-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5215,4448-03-02,"POPLATEK MESICNE",14628,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5228,4447-12-15,"POPLATEK PO OBRATU",173808,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5256,4449-01-20,"POPLATEK PO OBRATU",193968,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5270,4446-07-23,"POPLATEK MESICNE",79608,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,222026,Debit,"No Card",0
+5313,4447-06-04,"POPLATEK MESICNE",300660,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5343,4447-11-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5366,4448-06-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5369,4446-11-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,6543,Credit,"No Card",0
+5372,4447-08-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5385,4447-09-04,"POPLATEK TYDNE",149340,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5387,4448-12-31,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5423,4447-08-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5428,4447-05-20,"POPLATEK MESICNE",174744,24,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5442,4447-02-17,"POPLATEK MESICNE",174744,24,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,42632,Credit,"No Card",0
+5472,4447-08-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5481,4448-06-25,"POPLATEK MESICNE",209184,48,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5483,4447-02-23,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5546,4447-09-11,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5622,4446-10-26,"POPLATEK MESICNE",83016,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,116173,Debit,"No Card",0
+5700,4448-03-21,"POPLATEK MESICNE",103680,60,"Client in debt",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5740,4447-05-22,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5767,4447-12-08,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5868,4446-10-20,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,10400,Credit,"No Card",0
+5891,4446-08-04,"POPLATEK MESICNE",65184,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,90810,Debit,"No Card",0
+5952,4448-09-24,"POPLATEK MESICNE",141240,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+5984,4449-04-16,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6030,4448-07-03,"POPLATEK MESICNE",28248,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6034,4447-02-14,"POPLATEK TYDNE",464520,60,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,24051,Credit,"No Card",0
+6040,4447-05-28,"POPLATEK MESICNE",11736,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6051,4448-07-07,"POPLATEK MESICNE",276660,36,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6226,4448-03-27,"POPLATEK TYDNE",398640,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6273,4448-03-22,"POPLATEK MESICNE",87360,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6281,4447-11-30,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6363,4448-06-10,"POPLATEK MESICNE",17508,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6425,4447-02-24,"POPLATEK MESICNE",36684,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6473,4446-08-05,"POPLATEK MESICNE",76908,12,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,96297,Debit,"No Card",0
+6555,4447-01-31,"POPLATEK TYDNE",212400,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,52804,Credit,"No Card",0
+6636,4448-06-13,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6701,4447-02-10,"POPLATEK TYDNE",95400,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,29282,Credit,"No Card",0
+6715,4448-10-02,"POPLATEK TYDNE",137880,60,"Client in debt",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6897,4447-05-29,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+6930,4448-09-25,"POPLATEK MESICNE",25944,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7011,4449-01-03,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7123,4447-05-20,"POPLATEK PO OBRATU",47016,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7133,4448-10-04,"POPLATEK MESICNE",48672,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7190,4448-09-23,"POPLATEK MESICNE",63360,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7203,4447-02-21,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,900,Credit,"No Card",0
+7231,4447-02-09,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,62273,Credit,"No Card",0
+7401,4446-11-13,"POPLATEK MESICNE",80952,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,21336,Credit,"No Card",0
+7445,4447-02-13,"POPLATEK MESICNE",55368,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,200,Credit,"No Card",0
+7454,4447-05-25,"POPLATEK MESICNE",63312,48,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7485,4448-03-29,"POPLATEK MESICNE",91200,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7607,4448-09-22,"POPLATEK MESICNE",31728,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7753,4446-10-26,"POPLATEK MESICNE",51696,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,103340,Debit,"No Card",0
+7769,4448-12-29,"POPLATEK MESICNE",196080,48,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7774,4448-10-01,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7819,4448-06-10,"POPLATEK MESICNE",20832,48,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7857,4448-06-13,"POPLATEK MESICNE",68112,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+7965,4449-04-13,"POPLATEK MESICNE",71460,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8027,4448-03-08,"POPLATEK TYDNE",77640,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8041,4449-01-05,"POPLATEK MESICNE",140400,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8051,4446-10-25,"POPLATEK TYDNE",208320,48,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,26940,Debit,"No Card",0
+8073,4448-09-20,"POPLATEK PO OBRATU",49320,12,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8129,4447-12-18,"POPLATEK MESICNE",74736,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8132,4447-05-23,"POPLATEK TYDNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8173,4448-03-06,"POPLATEK MESICNE",80340,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8212,4448-06-30,"POPLATEK PO OBRATU",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8260,4447-02-19,"POPLATEK MESICNE",224604,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,200,Credit,"No Card",0
+8261,4447-08-26,"POPLATEK MESICNE",87840,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8321,4447-05-18,"POPLATEK MESICNE",89040,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8330,4447-02-23,"POPLATEK MESICNE",7656,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8475,4448-09-25,"POPLATEK MESICNE",21072,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8489,4448-10-05,"POPLATEK MESICNE",265320,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8519,4447-05-08,"POPLATEK MESICNE",74688,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8564,4448-09-29,"POPLATEK MESICNE",76680,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8566,4449-01-03,"POPLATEK MESICNE",230220,36,"Loan not paid",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8625,4449-04-15,"POPLATEK MESICNE",47304,24,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8759,4448-10-05,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8934,4447-11-28,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8957,4449-04-18,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+8982,4448-10-12,"POPLATEK MESICNE",227880,36,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+9034,4447-12-20,"POPLATEK MESICNE",38148,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+9041,4448-06-12,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+9093,4447-12-08,"POPLATEK MESICNE",189300,60,"Running, OK",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0
+9188,4446-10-26,"POPLATEK MESICNE",127080,60,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,17210,Credit,"No Card",0
+9203,4446-11-14,"POPLATEK MESICNE",0,0,"No Loan",NULL,NULL,NULL,Unknown,0,0,0,0,900,Credit,"No Card",0
+9236,4448-06-27,"POPLATEK MESICNE",86616,12,"No problems",NULL,NULL,NULL,Unknown,0,0,0,0,0,"No Transactions","No Card",0

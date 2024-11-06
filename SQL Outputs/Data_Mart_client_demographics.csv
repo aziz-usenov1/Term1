@@ -1,0 +1,10 @@
+client_region,total_clients,avg_salary,avg_unemployment_rate_1995,avg_unemployment_rate_1996,avg_urban_inhabitants_ratio
+Prague,34,12541.0000,0.0000,0.0000,100.0000
+"north Bohemia",30,9363.6333,5.0333,6.2667,79.8667
+"east Bohemia",25,8742.0800,2.4000,2.5600,68.0800
+"west Bohemia",25,8915.6000,2.3200,2.8800,61.4400
+"north Moravia",47,9498.3191,4.4043,5.6383,73.5319
+"south Bohemia",10,8658.1000,1.8000,2.5000,59.5000
+"central Bohemia",30,9293.7000,2.2667,2.6667,49.3667
+"south Moravia",28,8955.5714,3.2500,3.5714,61.2500
+Unknown,0,0.0000,0.0000,0.0000,0.0000

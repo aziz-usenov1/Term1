@@ -1,0 +1,1000 @@
+account_id,transaction_type,transaction_count,avg_transaction_amount
+2,Credit,2,42672.0000
+9,Credit,1,12905.0000
+15,"No Transactions",1,0.0000
+18,"No Transactions",1,0.0000
+23,"No Transactions",1,0.0000
+26,"No Transactions",1,0.0000
+27,"No Transactions",1,0.0000
+33,"No Transactions",1,0.0000
+34,"No Transactions",1,0.0000
+35,"No Transactions",1,0.0000
+36,"No Transactions",1,0.0000
+39,"No Transactions",1,0.0000
+40,"No Transactions",1,0.0000
+44,"No Transactions",1,0.0000
+47,"No Transactions",1,0.0000
+62,"No Transactions",1,0.0000
+73,"No Transactions",1,0.0000
+78,"No Transactions",1,0.0000
+83,"No Transactions",2,0.0000
+86,Credit,2,8086.0000
+96,Debit,2,284105.0000
+102,"No Transactions",1,0.0000
+104,"No Transactions",2,0.0000
+107,"No Transactions",1,0.0000
+112,Credit,2,6782.0000
+115,Credit,1,800.0000
+117,"No Transactions",1,0.0000
+119,"No Transactions",1,0.0000
+123,Credit,2,200.0000
+126,"No Transactions",1,0.0000
+128,Credit,1,11800.0000
+135,"No Transactions",1,0.0000
+142,Credit,2,5455.0000
+146,"No Transactions",1,0.0000
+148,"No Transactions",1,0.0000
+151,"No Transactions",2,0.0000
+153,"No Transactions",1,0.0000
+160,"No Transactions",1,0.0000
+162,"No Transactions",2,0.0000
+163,Credit,1,28592.0000
+165,"No Transactions",2,0.0000
+168,"No Transactions",2,0.0000
+172,"No Transactions",2,0.0000
+186,"No Transactions",1,0.0000
+187,"No Transactions",1,0.0000
+188,"No Transactions",1,0.0000
+192,Credit,1,12018.0000
+196,"No Transactions",1,0.0000
+197,Credit,1,22518.0000
+198,"No Transactions",1,0.0000
+207,"No Transactions",1,0.0000
+212,Debit,1,143932.0000
+220,"No Transactions",1,0.0000
+222,Credit,1,500.0000
+225,"No Transactions",2,0.0000
+228,"No Transactions",1,0.0000
+234,"No Transactions",2,0.0000
+235,"No Transactions",1,0.0000
+238,"No Transactions",1,0.0000
+239,Credit,1,900.0000
+243,"No Transactions",1,0.0000
+244,Credit,1,44616.0000
+259,"No Transactions",1,0.0000
+273,"No Transactions",1,0.0000
+274,"No Transactions",1,0.0000
+279,"No Transactions",2,0.0000
+280,Debit,1,107115.0000
+287,"No Transactions",1,0.0000
+299,"No Transactions",1,0.0000
+300,"No Transactions",2,0.0000
+306,"No Transactions",1,0.0000
+317,Credit,1,6722.0000
+321,"No Transactions",1,0.0000
+322,Credit,2,21246.0000
+327,"No Transactions",1,0.0000
+334,"No Transactions",1,0.0000
+340,"No Transactions",2,0.0000
+346,Debit,1,49832.0000
+354,"No Transactions",1,0.0000
+361,Credit,1,48476.0000
+362,"No Transactions",1,0.0000
+368,"No Transactions",1,0.0000
+374,Debit,1,59951.0000
+381,"No Transactions",1,0.0000
+385,"No Transactions",1,0.0000
+389,"No Transactions",1,0.0000
+395,Credit,2,1200.0000
+396,Credit,1,4000.0000
+397,"No Transactions",2,0.0000
+400,"No Transactions",1,0.0000
+401,Debit,1,75536.0000
+403,"No Transactions",2,0.0000
+408,"No Transactions",1,0.0000
+411,Credit,1,40336.0000
+415,Credit,1,13510.0000
+419,"No Transactions",1,0.0000
+423,"No Transactions",1,0.0000
+425,Credit,1,1200.0000
+428,Credit,2,6814.0000
+432,"No Transactions",1,0.0000
+433,"No Transactions",1,0.0000
+435,Credit,1,10478.0000
+443,Credit,1,19848.0000
+445,"No Transactions",1,0.0000
+446,"No Transactions",1,0.0000
+456,Debit,1,136313.0000
+459,Credit,1,17500.0000
+461,Credit,2,6988.0000
+462,"No Transactions",1,0.0000
+465,Credit,1,66228.0000
+467,"No Transactions",1,0.0000
+477,Debit,1,117294.0000
+485,Debit,1,966012.0000
+489,"No Transactions",1,0.0000
+492,"No Transactions",1,0.0000
+494,Credit,1,1200.0000
+496,Credit,1,6204.0000
+497,"No Transactions",1,0.0000
+504,"No Transactions",1,0.0000
+510,"No Transactions",1,0.0000
+517,"No Transactions",1,0.0000
+519,"No Transactions",2,0.0000
+520,"No Transactions",1,0.0000
+523,"No Transactions",1,0.0000
+539,Credit,1,14200.0000
+540,"No Transactions",1,0.0000
+541,"No Transactions",1,0.0000
+542,"No Transactions",1,0.0000
+551,"No Transactions",1,0.0000
+552,"No Transactions",1,0.0000
+555,"No Transactions",1,0.0000
+559,Credit,1,5972.0000
+562,Credit,1,4100.0000
+563,"No Transactions",1,0.0000
+574,"No Transactions",1,0.0000
+576,Credit,2,19571.0000
+588,Credit,1,3000.0000
+601,"No Transactions",1,0.0000
+616,"No Transactions",1,0.0000
+623,Credit,2,400.0000
+624,"No Transactions",1,0.0000
+626,"No Transactions",2,0.0000
+627,Credit,1,92120.0000
+630,"No Transactions",1,0.0000
+640,"No Transactions",1,0.0000
+648,"No Transactions",1,0.0000
+652,Debit,1,50109.0000
+655,Credit,1,4000.0000
+657,"No Transactions",1,0.0000
+678,"No Transactions",1,0.0000
+686,"No Transactions",1,0.0000
+697,Credit,2,24267.0000
+699,"No Transactions",1,0.0000
+701,"No Transactions",1,0.0000
+702,"No Transactions",1,0.0000
+704,Debit,2,130740.0000
+717,"No Transactions",2,0.0000
+721,"No Transactions",2,0.0000
+730,"No Transactions",1,0.0000
+738,"No Transactions",1,0.0000
+743,"No Transactions",1,0.0000
+744,Credit,1,6140.0000
+747,"No Transactions",1,0.0000
+748,"No Transactions",2,0.0000
+750,"No Transactions",1,0.0000
+751,"No Transactions",1,0.0000
+757,"No Transactions",1,0.0000
+759,"No Transactions",1,0.0000
+764,Credit,1,13576.0000
+772,Debit,1,61750.0000
+773,"No Transactions",1,0.0000
+774,"No Transactions",1,0.0000
+787,"No Transactions",1,0.0000
+790,"No Transactions",1,0.0000
+793,Credit,2,11036.0000
+799,"No Transactions",2,0.0000
+813,Credit,1,26144.0000
+815,"No Transactions",2,0.0000
+816,"No Transactions",1,0.0000
+830,Credit,2,18923.0000
+837,"No Transactions",1,0.0000
+838,"No Transactions",2,0.0000
+841,"No Transactions",1,0.0000
+854,"No Transactions",1,0.0000
+857,"No Transactions",2,0.0000
+860,Credit,1,600.0000
+861,"No Transactions",1,0.0000
+862,Debit,1,99705.0000
+863,"No Transactions",1,0.0000
+866,Debit,1,52372.0000
+882,Credit,1,11887.0000
+885,"No Transactions",1,0.0000
+886,"No Transactions",1,0.0000
+887,"No Transactions",1,0.0000
+890,Credit,1,25505.0000
+892,Credit,1,900.0000
+897,"No Transactions",1,0.0000
+899,"No Transactions",1,0.0000
+902,"No Transactions",1,0.0000
+907,"No Transactions",1,0.0000
+914,"No Transactions",1,0.0000
+925,Credit,1,23200.0000
+928,"No Transactions",1,0.0000
+929,"No Transactions",1,0.0000
+930,"No Transactions",1,0.0000
+931,"No Transactions",1,0.0000
+942,"No Transactions",1,0.0000
+943,Credit,1,7248.0000
+944,Credit,1,17427.0000
+947,"No Transactions",1,0.0000
+950,"No Transactions",1,0.0000
+965,"No Transactions",1,0.0000
+977,"No Transactions",1,0.0000
+978,"No Transactions",1,0.0000
+979,Credit,1,20114.0000
+982,Credit,1,18219.0000
+991,"No Transactions",1,0.0000
+998,"No Transactions",1,0.0000
+1000,Debit,1,64418.0000
+1005,Debit,1,40183.0000
+1006,Credit,1,16037.0000
+1016,"No Transactions",1,0.0000
+1018,"No Transactions",1,0.0000
+1019,Debit,1,54325.0000
+1023,"No Transactions",1,0.0000
+1032,"No Transactions",1,0.0000
+1039,"No Transactions",1,0.0000
+1048,"No Transactions",1,0.0000
+1050,Debit,1,27117.0000
+1051,"No Transactions",1,0.0000
+1052,"No Transactions",1,0.0000
+1054,Credit,1,17250.0000
+1057,"No Transactions",1,0.0000
+1062,"No Transactions",1,0.0000
+1065,"No Transactions",1,0.0000
+1069,"No Transactions",1,0.0000
+1071,"No Transactions",1,0.0000
+1077,Credit,1,2500.0000
+1079,"No Transactions",1,0.0000
+1091,"No Transactions",1,0.0000
+1106,"No Transactions",1,0.0000
+1107,"No Transactions",1,0.0000
+1114,"No Transactions",1,0.0000
+1115,"No Transactions",1,0.0000
+1116,"No Transactions",1,0.0000
+1118,"No Transactions",1,0.0000
+1120,"No Transactions",1,0.0000
+1123,"No Transactions",1,0.0000
+1126,Credit,1,1100.0000
+1127,Credit,1,49072.0000
+1132,Debit,1,109142.0000
+1133,"No Transactions",1,0.0000
+1134,Credit,1,20570.0000
+1136,"No Transactions",1,0.0000
+1144,Credit,1,6950.0000
+1145,"No Transactions",1,0.0000
+1146,"No Transactions",1,0.0000
+1147,"No Transactions",1,0.0000
+1152,"No Transactions",1,0.0000
+1157,"No Transactions",1,0.0000
+1161,"No Transactions",1,0.0000
+1166,"No Transactions",1,0.0000
+1179,Credit,1,9124.0000
+1180,"No Transactions",1,0.0000
+1189,Credit,1,600.0000
+1197,"No Transactions",1,0.0000
+1200,"No Transactions",1,0.0000
+1201,"No Transactions",1,0.0000
+1207,"No Transactions",1,0.0000
+1217,"No Transactions",1,0.0000
+1222,Credit,1,13320.0000
+1234,"No Transactions",1,0.0000
+1236,"No Transactions",1,0.0000
+1239,"No Transactions",1,0.0000
+1247,"No Transactions",1,0.0000
+1268,"No Transactions",1,0.0000
+1272,"No Transactions",1,0.0000
+1276,Debit,1,33629.0000
+1277,"No Transactions",1,0.0000
+1285,"No Transactions",1,0.0000
+1297,"No Transactions",1,0.0000
+1299,"No Transactions",1,0.0000
+1305,"No Transactions",1,0.0000
+1322,"No Transactions",1,0.0000
+1332,Credit,1,300.0000
+1334,"No Transactions",1,0.0000
+1337,"No Transactions",1,0.0000
+1338,Debit,1,46176.0000
+1345,"No Transactions",1,0.0000
+1366,Credit,1,8526.0000
+1372,Credit,1,300.0000
+1373,"No Transactions",1,0.0000
+1378,Credit,1,25519.0000
+1381,"No Transactions",1,0.0000
+1382,"No Transactions",1,0.0000
+1392,"No Transactions",1,0.0000
+1397,Credit,1,700.0000
+1401,"No Transactions",1,0.0000
+1402,"No Transactions",1,0.0000
+1404,"No Transactions",1,0.0000
+1410,"No Transactions",1,0.0000
+1411,"No Transactions",1,0.0000
+1412,"No Transactions",1,0.0000
+1416,"No Transactions",1,0.0000
+1422,"No Transactions",1,0.0000
+1425,"No Transactions",1,0.0000
+1429,"No Transactions",1,0.0000
+1440,"No Transactions",1,0.0000
+1442,"No Transactions",1,0.0000
+1449,"No Transactions",1,0.0000
+1451,"No Transactions",1,0.0000
+1453,"No Transactions",1,0.0000
+1468,"No Transactions",1,0.0000
+1475,"No Transactions",1,0.0000
+1476,"No Transactions",1,0.0000
+1477,Credit,1,7012.0000
+1481,Credit,1,7196.0000
+1485,"No Transactions",1,0.0000
+1487,"No Transactions",1,0.0000
+1493,Credit,1,15262.0000
+1495,"No Transactions",1,0.0000
+1497,"No Transactions",1,0.0000
+1505,"No Transactions",1,0.0000
+1507,"No Transactions",1,0.0000
+1513,"No Transactions",1,0.0000
+1515,"No Transactions",1,0.0000
+1516,"No Transactions",1,0.0000
+1518,"No Transactions",1,0.0000
+1534,"No Transactions",1,0.0000
+1535,Credit,1,200.0000
+1536,Debit,1,63549.0000
+1539,Debit,1,69788.0000
+1544,"No Transactions",1,0.0000
+1545,Credit,1,200.0000
+1547,"No Transactions",1,0.0000
+1565,"No Transactions",1,0.0000
+1566,"No Transactions",1,0.0000
+1575,Credit,1,6348.0000
+1584,"No Transactions",1,0.0000
+1589,"No Transactions",1,0.0000
+1601,Credit,1,4542.0000
+1602,"No Transactions",1,0.0000
+1603,"No Transactions",1,0.0000
+1610,"No Transactions",1,0.0000
+1617,"No Transactions",1,0.0000
+1628,Credit,1,13562.0000
+1630,"No Transactions",1,0.0000
+1637,Credit,1,17696.0000
+1644,"No Transactions",1,0.0000
+1649,Credit,1,11700.0000
+1652,"No Transactions",1,0.0000
+1658,"No Transactions",1,0.0000
+1666,"No Transactions",1,0.0000
+1671,"No Transactions",1,0.0000
+1675,Credit,1,9768.0000
+1678,Debit,1,23516.0000
+1684,"No Transactions",1,0.0000
+1688,Credit,1,6239.0000
+1689,"No Transactions",1,0.0000
+1694,"No Transactions",1,0.0000
+1695,Credit,1,24821.0000
+1699,Credit,1,11248.0000
+1701,"No Transactions",1,0.0000
+1705,"No Transactions",1,0.0000
+1713,Credit,1,1400.0000
+1719,"No Transactions",1,0.0000
+1721,Credit,1,1100.0000
+1726,Debit,1,52249.0000
+1730,Credit,1,14278.0000
+1731,Credit,1,9716.0000
+1743,"No Transactions",1,0.0000
+1750,Debit,1,53340.0000
+1761,"No Transactions",1,0.0000
+1767,"No Transactions",1,0.0000
+1771,"No Transactions",1,0.0000
+1773,"No Transactions",1,0.0000
+1775,Credit,1,7832.0000
+1779,"No Transactions",1,0.0000
+1780,"No Transactions",1,0.0000
+1782,"No Transactions",1,0.0000
+1784,"No Transactions",1,0.0000
+1786,"No Transactions",1,0.0000
+1787,Credit,1,1100.0000
+1789,"No Transactions",1,0.0000
+1801,Credit,1,68317.0000
+1804,"No Transactions",1,0.0000
+1805,Credit,1,10600.0000
+1806,Credit,1,10458.0000
+1809,"No Transactions",1,0.0000
+1811,"No Transactions",1,0.0000
+1815,"No Transactions",1,0.0000
+1816,"No Transactions",1,0.0000
+1822,"No Transactions",1,0.0000
+1827,"No Transactions",1,0.0000
+1829,Credit,1,8329.0000
+1830,Credit,1,20238.0000
+1831,"No Transactions",1,0.0000
+1834,"No Transactions",1,0.0000
+1837,"No Transactions",1,0.0000
+1843,Credit,1,40164.0000
+1844,Credit,1,10255.0000
+1851,"No Transactions",1,0.0000
+1852,"No Transactions",1,0.0000
+1861,"No Transactions",1,0.0000
+1874,"No Transactions",1,0.0000
+1875,"No Transactions",1,0.0000
+1887,"No Transactions",1,0.0000
+1891,"No Transactions",1,0.0000
+1892,"No Transactions",1,0.0000
+1896,"No Transactions",1,0.0000
+1898,"No Transactions",1,0.0000
+1902,"No Transactions",1,0.0000
+1909,Credit,1,7182.0000
+1912,"No Transactions",1,0.0000
+1925,"No Transactions",1,0.0000
+1926,Credit,1,26690.0000
+1930,"No Transactions",1,0.0000
+1937,"No Transactions",1,0.0000
+1941,"No Transactions",1,0.0000
+1944,Credit,1,21680.0000
+1947,"No Transactions",1,0.0000
+1965,Credit,1,12800.0000
+1966,Debit,1,49582.0000
+1972,Credit,1,16337.0000
+1978,"No Transactions",1,0.0000
+1979,Credit,1,6942.0000
+1981,"No Transactions",1,0.0000
+1984,"No Transactions",1,0.0000
+1990,"No Transactions",1,0.0000
+1998,"No Transactions",1,0.0000
+1999,"No Transactions",1,0.0000
+2002,"No Transactions",1,0.0000
+2008,"No Transactions",1,0.0000
+2011,Credit,1,900.0000
+2020,"No Transactions",1,0.0000
+2022,"No Transactions",1,0.0000
+2023,Credit,1,49964.0000
+2029,"No Transactions",1,0.0000
+2037,"No Transactions",1,0.0000
+2038,"No Transactions",1,0.0000
+2039,Credit,1,300.0000
+2050,"No Transactions",1,0.0000
+2052,"No Transactions",1,0.0000
+2056,"No Transactions",1,0.0000
+2061,"No Transactions",1,0.0000
+2068,"No Transactions",1,0.0000
+2070,Credit,1,32279.0000
+2072,"No Transactions",1,0.0000
+2078,"No Transactions",1,0.0000
+2082,"No Transactions",1,0.0000
+2087,Debit,1,40629.0000
+2088,"No Transactions",1,0.0000
+2099,Debit,1,169639.0000
+2110,Credit,1,3676.0000
+2122,Debit,1,159325.0000
+2123,"No Transactions",1,0.0000
+2124,Credit,1,24031.0000
+2132,"No Transactions",1,0.0000
+2137,"No Transactions",1,0.0000
+2140,"No Transactions",1,0.0000
+2146,"No Transactions",1,0.0000
+2150,"No Transactions",1,0.0000
+2167,"No Transactions",1,0.0000
+2175,"No Transactions",1,0.0000
+2176,"No Transactions",1,0.0000
+2177,Credit,1,16216.0000
+2180,"No Transactions",1,0.0000
+2186,"No Transactions",1,0.0000
+2189,"No Transactions",1,0.0000
+2199,"No Transactions",1,0.0000
+2201,"No Transactions",1,0.0000
+2213,"No Transactions",1,0.0000
+2216,"No Transactions",1,0.0000
+2219,Credit,1,400.0000
+2220,Credit,1,7253.0000
+2222,"No Transactions",1,0.0000
+2241,Credit,1,20484.0000
+2242,Credit,1,43793.0000
+2245,"No Transactions",1,0.0000
+2250,"No Transactions",1,0.0000
+2253,"No Transactions",1,0.0000
+2256,Credit,1,10171.0000
+2269,"No Transactions",1,0.0000
+2271,"No Transactions",1,0.0000
+2276,"No Transactions",1,0.0000
+2282,"No Transactions",1,0.0000
+2293,Credit,1,7445.0000
+2298,"No Transactions",1,0.0000
+2302,"No Transactions",1,0.0000
+2313,"No Transactions",1,0.0000
+2318,"No Transactions",1,0.0000
+2321,"No Transactions",1,0.0000
+2327,"No Transactions",1,0.0000
+2330,Credit,1,6990.0000
+2336,"No Transactions",1,0.0000
+2342,Credit,1,3647.0000
+2345,"No Transactions",1,0.0000
+2357,Credit,1,20151.0000
+2378,Debit,1,316381.0000
+2379,Debit,1,27500.0000
+2388,"No Transactions",1,0.0000
+2393,Debit,1,41224.0000
+2396,Credit,1,4703.0000
+2410,"No Transactions",1,0.0000
+2411,"No Transactions",1,0.0000
+2417,"No Transactions",1,0.0000
+2423,Credit,1,6071.0000
+2425,Debit,1,27529.0000
+2427,"No Transactions",1,0.0000
+2428,"No Transactions",1,0.0000
+2429,Credit,1,20309.0000
+2433,Credit,1,5218.0000
+2434,Credit,1,19995.0000
+2435,"No Transactions",1,0.0000
+2436,"No Transactions",1,0.0000
+2453,Credit,1,3685.0000
+2457,"No Transactions",1,0.0000
+2458,Credit,1,1100.0000
+2464,"No Transactions",1,0.0000
+2467,"No Transactions",1,0.0000
+2479,"No Transactions",1,0.0000
+2484,Debit,1,59198.0000
+2486,Credit,1,39020.0000
+2488,"No Transactions",1,0.0000
+2489,Credit,1,6681.0000
+2493,"No Transactions",1,0.0000
+2497,Credit,1,300.0000
+2503,Credit,1,600.0000
+2508,Credit,1,700.0000
+2510,"No Transactions",1,0.0000
+2513,"No Transactions",1,0.0000
+2519,Credit,1,11588.0000
+2523,"No Transactions",1,0.0000
+2527,Credit,1,1000.0000
+2528,Credit,1,1000.0000
+2534,"No Transactions",1,0.0000
+2542,"No Transactions",1,0.0000
+2543,Credit,1,13412.0000
+2549,"No Transactions",1,0.0000
+2552,"No Transactions",1,0.0000
+2554,"No Transactions",1,0.0000
+2555,Credit,1,20122.0000
+2566,Credit,1,11500.0000
+2574,Credit,1,32677.0000
+2576,"No Transactions",1,0.0000
+2581,Credit,1,20153.0000
+2582,"No Transactions",1,0.0000
+2583,"No Transactions",1,0.0000
+2584,"No Transactions",1,0.0000
+2585,Credit,1,35164.0000
+2592,"No Transactions",1,0.0000
+2599,"No Transactions",1,0.0000
+2609,"No Transactions",1,0.0000
+2613,"No Transactions",1,0.0000
+2616,"No Transactions",1,0.0000
+2617,"No Transactions",1,0.0000
+2618,Credit,1,600.0000
+2620,"No Transactions",1,0.0000
+2623,"No Transactions",1,0.0000
+2632,Debit,1,56062.0000
+2639,"No Transactions",1,0.0000
+2641,"No Transactions",1,0.0000
+2645,"No Transactions",1,0.0000
+2647,Credit,1,26065.0000
+2648,"No Transactions",1,0.0000
+2649,"No Transactions",1,0.0000
+2651,Credit,1,200.0000
+2660,"No Transactions",1,0.0000
+2665,"No Transactions",1,0.0000
+2666,Credit,1,3501.0000
+2667,"No Transactions",1,0.0000
+2670,Debit,1,51273.0000
+2671,"No Transactions",1,0.0000
+2676,Debit,1,38548.0000
+2687,"No Transactions",1,0.0000
+2691,"No Transactions",1,0.0000
+2694,Credit,1,18285.0000
+2695,"No Transactions",1,0.0000
+2697,"No Transactions",1,0.0000
+2700,"No Transactions",1,0.0000
+2701,"No Transactions",1,0.0000
+2705,"No Transactions",1,0.0000
+2711,"No Transactions",1,0.0000
+2712,Credit,1,400.0000
+2714,Credit,1,14200.0000
+2732,"No Transactions",1,0.0000
+2736,"No Transactions",1,0.0000
+2738,"No Transactions",1,0.0000
+2741,"No Transactions",1,0.0000
+2758,"No Transactions",1,0.0000
+2762,Credit,1,30860.0000
+2763,Debit,1,83521.0000
+2771,"No Transactions",1,0.0000
+2779,"No Transactions",1,0.0000
+2793,"No Transactions",1,0.0000
+2802,"No Transactions",1,0.0000
+2814,"No Transactions",1,0.0000
+2817,"No Transactions",1,0.0000
+2818,"No Transactions",1,0.0000
+2823,"No Transactions",1,0.0000
+2824,"No Transactions",1,0.0000
+2838,"No Transactions",1,0.0000
+2841,"No Transactions",1,0.0000
+2849,"No Transactions",1,0.0000
+2859,"No Transactions",1,0.0000
+2861,Credit,1,6215.0000
+2862,"No Transactions",1,0.0000
+2867,"No Transactions",1,0.0000
+2876,"No Transactions",1,0.0000
+2880,"No Transactions",1,0.0000
+2881,Credit,1,31362.0000
+2884,Credit,1,21039.0000
+2894,"No Transactions",1,0.0000
+2895,Credit,1,18446.0000
+2896,"No Transactions",1,0.0000
+2902,Credit,1,44533.0000
+2907,"No Transactions",1,0.0000
+2915,"No Transactions",1,0.0000
+2925,Debit,1,31428.0000
+2926,Debit,1,35716.0000
+2932,"No Transactions",1,0.0000
+2933,"No Transactions",1,0.0000
+2938,"No Transactions",1,0.0000
+2940,"No Transactions",1,0.0000
+2951,"No Transactions",1,0.0000
+2958,"No Transactions",1,0.0000
+2962,"No Transactions",1,0.0000
+2970,Debit,1,33439.0000
+2974,Credit,1,1100.0000
+2985,"No Transactions",1,0.0000
+2987,"No Transactions",1,0.0000
+2991,"No Transactions",1,0.0000
+3000,"No Transactions",1,0.0000
+3001,Credit,1,400.0000
+3007,Credit,1,46677.0000
+3008,Credit,1,7134.0000
+3011,"No Transactions",1,0.0000
+3026,Credit,1,24440.0000
+3028,"No Transactions",1,0.0000
+3032,"No Transactions",1,0.0000
+3035,"No Transactions",1,0.0000
+3042,"No Transactions",1,0.0000
+3047,Credit,1,4074.0000
+3050,"No Transactions",1,0.0000
+3053,"No Transactions",1,0.0000
+3063,"No Transactions",1,0.0000
+3064,"No Transactions",1,0.0000
+3068,"No Transactions",1,0.0000
+3069,Credit,1,400.0000
+3072,"No Transactions",1,0.0000
+3076,"No Transactions",1,0.0000
+3078,"No Transactions",1,0.0000
+3086,"No Transactions",1,0.0000
+3091,"No Transactions",1,0.0000
+3096,"No Transactions",1,0.0000
+3099,"No Transactions",1,0.0000
+3108,Credit,1,600.0000
+3113,"No Transactions",1,0.0000
+3117,Credit,1,6255.0000
+3127,"No Transactions",1,0.0000
+3133,"No Transactions",1,0.0000
+3136,"No Transactions",1,0.0000
+3146,"No Transactions",1,0.0000
+3152,"No Transactions",1,0.0000
+3157,"No Transactions",1,0.0000
+3166,"No Transactions",1,0.0000
+3168,Credit,1,7303.0000
+3171,"No Transactions",1,0.0000
+3173,"No Transactions",1,0.0000
+3181,"No Transactions",1,0.0000
+3195,"No Transactions",1,0.0000
+3210,"No Transactions",1,0.0000
+3212,"No Transactions",1,0.0000
+3213,"No Transactions",1,0.0000
+3218,"No Transactions",1,0.0000
+3220,"No Transactions",1,0.0000
+3221,"No Transactions",1,0.0000
+3222,"No Transactions",1,0.0000
+3225,"No Transactions",1,0.0000
+3237,"No Transactions",1,0.0000
+3241,"No Transactions",1,0.0000
+3243,"No Transactions",1,0.0000
+3246,"No Transactions",1,0.0000
+3255,"No Transactions",1,0.0000
+3258,"No Transactions",1,0.0000
+3260,Credit,1,400.0000
+3261,"No Transactions",1,0.0000
+3264,"No Transactions",1,0.0000
+3267,"No Transactions",1,0.0000
+3268,"No Transactions",1,0.0000
+3277,"No Transactions",1,0.0000
+3283,Credit,1,300.0000
+3284,"No Transactions",1,0.0000
+3287,"No Transactions",1,0.0000
+3298,"No Transactions",1,0.0000
+3302,Credit,1,3708.0000
+3306,"No Transactions",1,0.0000
+3310,"No Transactions",1,0.0000
+3316,"No Transactions",1,0.0000
+3319,"No Transactions",1,0.0000
+3323,"No Transactions",1,0.0000
+3326,"No Transactions",1,0.0000
+3327,"No Transactions",1,0.0000
+3352,"No Transactions",1,0.0000
+3354,"No Transactions",1,0.0000
+3361,"No Transactions",1,0.0000
+3367,"No Transactions",1,0.0000
+3370,"No Transactions",1,0.0000
+3371,"No Transactions",1,0.0000
+3374,Credit,1,26584.0000
+3391,"No Transactions",1,0.0000
+3407,"No Transactions",1,0.0000
+3408,"No Transactions",1,0.0000
+3413,"No Transactions",1,0.0000
+3424,Debit,1,55536.0000
+3435,"No Transactions",1,0.0000
+3456,"No Transactions",1,0.0000
+3465,"No Transactions",1,0.0000
+3469,"No Transactions",1,0.0000
+3477,"No Transactions",1,0.0000
+3480,"No Transactions",1,0.0000
+3483,"No Transactions",1,0.0000
+3487,Debit,1,54297.0000
+3493,"No Transactions",1,0.0000
+3505,"No Transactions",1,0.0000
+3509,"No Transactions",1,0.0000
+3510,Debit,1,25870.0000
+3513,Credit,1,19578.0000
+3514,Credit,1,7411.0000
+3521,"No Transactions",1,0.0000
+3535,"No Transactions",1,0.0000
+3538,"No Transactions",1,0.0000
+3542,"No Transactions",1,0.0000
+3545,Credit,1,22503.0000
+3547,"No Transactions",1,0.0000
+3548,"No Transactions",1,0.0000
+3551,"No Transactions",1,0.0000
+3554,Debit,1,64283.0000
+3558,"No Transactions",1,0.0000
+3566,"No Transactions",1,0.0000
+3575,"No Transactions",1,0.0000
+3580,"No Transactions",1,0.0000
+3586,"No Transactions",1,0.0000
+3592,Credit,1,18669.0000
+3593,Credit,1,19887.0000
+3600,"No Transactions",1,0.0000
+3609,"No Transactions",1,0.0000
+3613,"No Transactions",1,0.0000
+3617,"No Transactions",1,0.0000
+3618,"No Transactions",1,0.0000
+3629,"No Transactions",1,0.0000
+3640,"No Transactions",1,0.0000
+3644,"No Transactions",1,0.0000
+3649,"No Transactions",1,0.0000
+3651,Credit,1,5881.0000
+3654,"No Transactions",1,0.0000
+3656,"No Transactions",1,0.0000
+3660,"No Transactions",1,0.0000
+3670,"No Transactions",1,0.0000
+3674,Credit,1,1000.0000
+3675,Credit,1,700.0000
+3678,Credit,1,800.0000
+3682,"No Transactions",1,0.0000
+3683,"No Transactions",1,0.0000
+3687,"No Transactions",1,0.0000
+3688,"No Transactions",1,0.0000
+3691,Credit,1,6940.0000
+3693,Credit,1,35097.0000
+3697,"No Transactions",1,0.0000
+3699,"No Transactions",1,0.0000
+3701,"No Transactions",1,0.0000
+3704,Credit,1,12984.0000
+3713,"No Transactions",1,0.0000
+3720,"No Transactions",1,0.0000
+3734,Credit,1,5939.0000
+3738,"No Transactions",1,0.0000
+3745,"No Transactions",1,0.0000
+3748,"No Transactions",1,0.0000
+3751,"No Transactions",1,0.0000
+3760,Debit,1,104935.0000
+3771,"No Transactions",1,0.0000
+3775,"No Transactions",1,0.0000
+3778,"No Transactions",1,0.0000
+3781,Credit,1,800.0000
+3785,Credit,1,200.0000
+3786,"No Transactions",1,0.0000
+3787,Credit,1,23550.0000
+3788,"No Transactions",1,0.0000
+3792,"No Transactions",1,0.0000
+3796,"No Transactions",1,0.0000
+3808,"No Transactions",1,0.0000
+3818,Debit,1,59037.0000
+3820,"No Transactions",1,0.0000
+3822,"No Transactions",1,0.0000
+3834,Debit,1,41785.0000
+3835,Credit,1,900.0000
+3837,"No Transactions",1,0.0000
+3844,"No Transactions",1,0.0000
+3850,"No Transactions",1,0.0000
+3863,"No Transactions",1,0.0000
+3868,"No Transactions",1,0.0000
+3871,Credit,1,9012.0000
+3882,"No Transactions",1,0.0000
+3883,Credit,1,1200.0000
+3888,"No Transactions",1,0.0000
+3891,"No Transactions",1,0.0000
+3892,"No Transactions",1,0.0000
+3909,Debit,1,63959.0000
+3915,"No Transactions",1,0.0000
+3920,"No Transactions",1,0.0000
+3923,"No Transactions",1,0.0000
+3927,"No Transactions",1,0.0000
+3935,Credit,1,1000.0000
+3939,"No Transactions",1,0.0000
+3948,"No Transactions",1,0.0000
+3954,"No Transactions",1,0.0000
+3955,"No Transactions",1,0.0000
+3960,Credit,1,5307.0000
+3965,"No Transactions",1,0.0000
+3969,"No Transactions",1,0.0000
+3972,"No Transactions",1,0.0000
+3977,"No Transactions",1,0.0000
+3980,"No Transactions",1,0.0000
+3982,"No Transactions",1,0.0000
+3983,Debit,1,30405.0000
+3999,"No Transactions",1,0.0000
+4000,"No Transactions",1,0.0000
+4013,"No Transactions",1,0.0000
+4034,Credit,1,21884.0000
+4035,"No Transactions",1,0.0000
+4055,Debit,1,51583.0000
+4059,"No Transactions",1,0.0000
+4078,Credit,1,50272.0000
+4079,"No Transactions",1,0.0000
+4093,Credit,1,400.0000
+4119,"No Transactions",1,0.0000
+4134,Credit,1,50928.0000
+4159,"No Transactions",1,0.0000
+4171,"No Transactions",1,0.0000
+4173,"No Transactions",1,0.0000
+4225,"No Transactions",1,0.0000
+4240,Debit,1,70220.0000
+4254,"No Transactions",1,0.0000
+4255,"No Transactions",1,0.0000
+4260,"No Transactions",1,0.0000
+4287,"No Transactions",1,0.0000
+4296,Credit,1,42865.0000
+4318,"No Transactions",1,0.0000
+4321,"No Transactions",1,0.0000
+4347,"No Transactions",1,0.0000
+4350,"No Transactions",1,0.0000
+4352,"No Transactions",1,0.0000
+4355,Credit,1,16200.0000
+4377,"No Transactions",1,0.0000
+4414,"No Transactions",1,0.0000
+4427,"No Transactions",1,0.0000
+4437,"No Transactions",1,0.0000
+4448,"No Transactions",1,0.0000
+4463,"No Transactions",1,0.0000
+4470,"No Transactions",1,0.0000
+4478,"No Transactions",1,0.0000
+4484,Debit,1,193007.0000
+4511,"No Transactions",1,0.0000
+4543,"No Transactions",1,0.0000
+4576,"No Transactions",1,0.0000
+4596,Credit,1,700.0000
+4659,"No Transactions",1,0.0000
+4743,"No Transactions",1,0.0000
+4894,"No Transactions",1,0.0000
+4937,Debit,1,89165.0000
+5011,"No Transactions",1,0.0000
+5065,Debit,1,42371.0000
+5120,"No Transactions",1,0.0000
+5129,"No Transactions",1,0.0000
+5215,"No Transactions",1,0.0000
+5228,"No Transactions",1,0.0000
+5256,"No Transactions",1,0.0000
+5270,Debit,1,222026.0000
+5313,"No Transactions",1,0.0000
+5343,"No Transactions",1,0.0000
+5366,"No Transactions",1,0.0000
+5369,Credit,1,6543.0000
+5372,"No Transactions",1,0.0000
+5385,"No Transactions",1,0.0000
+5387,"No Transactions",1,0.0000
+5423,"No Transactions",1,0.0000
+5428,"No Transactions",1,0.0000
+5442,Credit,1,42632.0000
+5472,"No Transactions",1,0.0000
+5481,"No Transactions",1,0.0000
+5483,"No Transactions",1,0.0000
+5546,"No Transactions",1,0.0000
+5622,Debit,1,116173.0000
+5700,"No Transactions",1,0.0000
+5740,"No Transactions",1,0.0000
+5767,"No Transactions",1,0.0000
+5868,Credit,1,10400.0000
+5891,Debit,1,90810.0000
+5952,"No Transactions",1,0.0000
+5984,"No Transactions",1,0.0000
+6030,"No Transactions",1,0.0000
+6034,Credit,1,24051.0000
+6040,"No Transactions",1,0.0000
+6051,"No Transactions",1,0.0000
+6226,"No Transactions",1,0.0000
+6273,"No Transactions",1,0.0000
+6281,"No Transactions",1,0.0000
+6363,"No Transactions",1,0.0000
+6425,"No Transactions",1,0.0000
+6473,Debit,1,96297.0000
+6555,Credit,1,52804.0000
+6636,"No Transactions",1,0.0000
+6701,Credit,1,29282.0000
+6715,"No Transactions",1,0.0000
+6897,"No Transactions",1,0.0000
+6930,"No Transactions",1,0.0000
+7011,"No Transactions",1,0.0000
+7123,"No Transactions",1,0.0000
+7133,"No Transactions",1,0.0000
+7190,"No Transactions",1,0.0000
+7203,Credit,1,900.0000
+7231,Credit,1,62273.0000
+7401,Credit,1,21336.0000
+7445,Credit,1,200.0000
+7454,"No Transactions",1,0.0000
+7485,"No Transactions",1,0.0000
+7607,"No Transactions",1,0.0000
+7753,Debit,1,103340.0000
+7769,"No Transactions",1,0.0000
+7774,"No Transactions",1,0.0000
+7819,"No Transactions",1,0.0000
+7857,"No Transactions",1,0.0000
+7965,"No Transactions",1,0.0000
+8027,"No Transactions",1,0.0000
+8041,"No Transactions",1,0.0000
+8051,Debit,1,26940.0000
+8073,"No Transactions",1,0.0000
+8129,"No Transactions",1,0.0000
+8132,"No Transactions",1,0.0000
+8173,"No Transactions",1,0.0000
+8212,"No Transactions",1,0.0000
+8260,Credit,1,200.0000
+8261,"No Transactions",1,0.0000
+8321,"No Transactions",1,0.0000
+8330,"No Transactions",1,0.0000
+8475,"No Transactions",1,0.0000
+8489,"No Transactions",1,0.0000
+8519,"No Transactions",1,0.0000
+8564,"No Transactions",1,0.0000
+8566,"No Transactions",1,0.0000
+8625,"No Transactions",1,0.0000
+8759,"No Transactions",1,0.0000
+8934,"No Transactions",1,0.0000
+8957,"No Transactions",1,0.0000
+8982,"No Transactions",1,0.0000
+9034,"No Transactions",1,0.0000
+9041,"No Transactions",1,0.0000
+9093,"No Transactions",1,0.0000
+9188,Credit,1,17210.0000
+9203,Credit,1,900.0000
+9236,"No Transactions",1,0.0000
+9265,Debit,1,85013.0000
+9307,Debit,1,31158.0000
+9337,"No Transactions",1,0.0000
+9403,"No Transactions",1,0.0000
+9472,"No Transactions",1,0.0000
+9591,"No Transactions",1,0.0000
+9635,Credit,1,13853.0000
+9640,Credit,1,20206.0000
+9656,"No Transactions",1,0.0000
+9703,"No Transactions",1,0.0000
+9707,"No Transactions",1,0.0000
+9828,"No Transactions",1,0.0000
+9833,"No Transactions",1,0.0000
+9869,"No Transactions",1,0.0000
+9883,Credit,1,500.0000
+10036,"No Transactions",1,0.0000
+10079,"No Transactions",1,0.0000
+10105,"No Transactions",1,0.0000
+10227,"No Transactions",1,0.0000
+10266,"No Transactions",1,0.0000
+10320,"No Transactions",1,0.0000
+10364,Debit,1,39124.0000
+10440,"No Transactions",1,0.0000
+10451,"No Transactions",1,0.0000
+10656,"No Transactions",1,0.0000
+10738,"No Transactions",1,0.0000
+10906,"No Transactions",1,0.0000
+10911,"No Transactions",1,0.0000
+10940,"No Transactions",1,0.0000
+10973,"No Transactions",1,0.0000
+11013,Debit,1,49844.0000
+11021,"No Transactions",1,0.0000
+11065,Credit,1,1100.0000
+11111,"No Transactions",1,0.0000
+11135,"No Transactions",1,0.0000
+11265,Debit,1,26880.0000
+11295,Debit,1,52253.0000
+11320,"No Transactions",1,0.0000
