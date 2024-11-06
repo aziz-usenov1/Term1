@@ -111,3 +111,117 @@ The `update_financial_analytics_after_insert` trigger keeps the `financial_analy
 - **Insert or Update:** Ensures that each account in `financial_analytics` has up-to-date loan information immediately after a new loan is created.
 
 ### 6. Implement all of the above mentioned procedures.
+
+## Data Mart Views and Materialized View for Financial Analytics
+
+### **1. Loan Analysis View** (`loan_analysis_view`)
+This view provides a summary of loans per account, detailing the count, average amount, average duration, and debt status. It’s essential for monitoring client loan statuses and identifying clients in debt.
+
+- **Fields:**
+    - `account_id`: Unique identifier for each account.
+    - `loan_status`: The current loan status (e.g., 'Client in debt').
+    - `loan_count`: Total number of loans per account.
+    - `avg_loan_amount`: Average loan amount per account.
+    - `avg_loan_duration`: Average loan duration per account.
+    - `clients_in_debt`: Count of loans where the client status is "Client in debt".
+- **Use Case:** Provides insight into loan performance and helps track accounts with loans in debt.
+
+### **2. Transaction Summary View** (`transaction_summary_view`)
+This view summarizes transactions by account and transaction type, enabling analysis of transaction patterns and average amounts.
+
+- **Fields:**
+    - `account_id`: Unique identifier for each account.
+    - `transaction_type`: Type of transaction (e.g., 'deposit', 'withdrawal').
+    - `transaction_count`: Count of transactions by type for each account.
+    - `avg_transaction_amount`: Average amount for each transaction type per account.
+- **Use Case:** Supports transaction analysis, allowing financial analysts to identify transaction trends and understand customer spending behaviors.
+
+### **3. Client Demographics View** (`client_demographics_view`)
+This view provides demographic insights into clients by region, focusing on metrics like average salary, unemployment rates, and urban inhabitants ratio.
+
+- **Fields:**
+    - `client_region`: Region where the client resides.
+    - `total_clients`: Total number of clients in each region.
+    - `avg_salary`: Average salary of clients in each region.
+    - `avg_unemployment_rate_1995`, `avg_unemployment_rate_1996`: Average unemployment rates for 1995 and 1996 by region.
+    - `avg_urban_inhabitants_ratio`: Average urban inhabitants ratio in each region.
+- **Use Case:** Helps in understanding the demographic distribution of clients, which aids in tailored marketing and policy-making.
+
+### **4. Materialized View: Account Activity Summary** (`account_activity_summary`)
+A materialized view that summarizes account activity and status. This view is refreshed daily to provide up-to-date information on transaction totals, average order amounts, and account status.
+
+- **Fields:**
+    - `account_id`: Unique identifier for each account.
+    - `account_creation_date`: Date when the account was created.
+    - `account_frequency`: Frequency of account usage.
+    - `total_transactions`: Sum of all transaction totals for the account.
+    - `avg_order_amount`: Average order amount for transactions associated with the account.
+    - `loan_presence`: Status indicating if the account has an active loan ("Has Loan" or "No Loan").
+    - `account_status`: Indicates if the account is "Active" or "Inactive" based on transaction activity.
+- **Use Case:** Optimizes performance by storing precomputed summaries, allowing fast retrieval of account activity data. It's suitable for daily reporting and analytics.
+
+- **Event: Daily Refresh** (`refresh_account_activity_summary`)
+A scheduled event refreshes the account_activity_summary materialized view daily. This event ensures that the view is updated with any new transactions, account changes, or other relevant data recorded in the financial_analytics table.
+
+    - **Event Description:** Deletes and repopulates the data in the account_activity_summary table.
+    - **Frequency:** Every 1 day.
+    - **Logic:**
+        - Clears existing data from account_activity_summary.
+        - Re-inserts aggregated data from the financial_analytics table.
+    - **Purpose:** Keeps the view’s data accurate by fully refreshing it every day, which is essential for time-sensitive analysis and reporting.
+- **Triggers on** `financial_analytics` **for Real-Time Updates**
+  
+To ensure real-time updates, three triggers (`INSERT`, `UPDATE`, `DELETE`) are created on the `financial_analytics` table. These triggers automatically adjust values in the `account_activity_summary` table whenever relevant data is modified in financial_analytics.
+
+- **Trigger: After Insert** (`trg_after_insert_financial_analytics`)
+
+This trigger is activated after a new record is inserted into financial_analytics, ensuring that the account_activity_summary table is updated to reflect the new transaction or account data.
+
+    - Trigger Type: `AFTER INSERT`
+    - Action: Inserts a new record into `account_activity_summary` or updates an existing one.
+    - Logic:
+        - Adds `transaction_total` to the `total_transactions`.
+        - Adjusts `avg_order_amount` by recalculating with the new `order_total_amount`.
+        - Updates `loan_presence` if a loan amount is recorded.
+        - Sets `account_status` to "Active" if `transaction_total` is greater than zero.
+        
+**Trigger: After Update** (`trg_after_update_financial_analytics`)
+
+This trigger is activated after a record in financial_analytics is updated. It adjusts values in account_activity_summary to reflect the updated transaction or account details.
+
+    - Trigger Type: `AFTER UPDATE`
+    - Action: Modifies existing data in `account_activity_summary`.
+    - Logic:
+        - Adjusts `total_transactions` by adding the difference between the new and old `transaction_total`.
+        - Recalculates `avg_order_amount` based on the new and old values of `order_total_amount`.
+        - Updates `loan_presence` if the updated record includes a loan amount.
+        - Adjusts `account_status` based on the updated `transaction_total`.
+        
+**Trigger: After Delete** (`trg_after_delete_financial_analytics`)
+
+This trigger is activated after a record is deleted from financial_analytics. It adjusts the account_activity_summary view to account for the removed data.
+
+    - Trigger Type: `AFTER DELETE`
+    - Action: Updates data in `account_activity_summary` to reflect the deletion.
+    - Logic:
+        - Reduces `total_transactions` by the deleted `transaction_total`.
+        - Adjusts `avg_order_amount` by recalculating after removing the deleted order amount.
+        - Updates `loan_presence` to "No Loan" if there are no remaining transactions with loans.
+        - Sets `account_status` to "Inactive" if `total_transactions` is zero after the deletion.
+
+## **Conclusion**
+
+This project provides a comprehensive analysis of loan repayment patterns, exploring how client demographics and account behaviors influence loan statuses. By creating an efficient analytical layer, implementing stored procedures and triggers, and using data marts and materialized views, the project enables detailed insights into customer loan behaviors. These insights help in identifying clients at risk and understanding demographic and behavioral trends that may affect repayment.
+
+## **Future Enhancements**
+
+Potential future improvements include refining the triggers for enhanced real-time updates, expanding demographic analysis by adding new variables, and optimizing materialized view refresh frequency based on analytical needs.
+
+#### Thank you for reviewing this project! Feel free to reach out or contribute with suggestions for further development.
+
+
+
+
+
+
+
