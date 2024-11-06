@@ -1,3 +1,9 @@
+<div align="center">
+  <a>
+    <img src="loan_logo.jpg" alt="Loan" width="600" height="400">
+  </a>
+</div>
+
 # Loan Data Analysis with SQL
 
 ## About the Project
